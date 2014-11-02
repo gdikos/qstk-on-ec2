@@ -1,0 +1,657 @@
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  8.658122e-06 -0.0003680868
+std_daily_ret  0.0001046392    0.02428128
+sharpe_ratio       1.313499    -0.2406462
+total_ret           1.00325     0.7797952
+
+end analize.py
+start analyze.py
+
+                        val         $SPX
+avg_daily_ret  2.366601e-05 -0.000333875
+std_daily_ret  0.0003942491   0.02416762
+sharpe_ratio      0.9529161   -0.2193059
+total_ret           1.00898    0.7887071
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  4.629919e-05 -0.0003328761
+std_daily_ret   0.000587945    0.02404169
+sharpe_ratio       1.250078    -0.2197951
+total_ret           1.01787     0.7874626
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  2.163745e-05 -0.0002915187
+std_daily_ret  0.0007823335    0.02380042
+sharpe_ratio      0.4390504    -0.1944384
+total_ret           1.00844     0.7972486
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret -1.596704e-05 -0.0002008013
+std_daily_ret   0.001275042    0.02316684
+sharpe_ratio     -0.1987926    -0.1375941
+total_ret           0.99291     0.8195099
+
+end analize.py
+start analyze.py
+
+                       val         $SPX
+avg_daily_ret  4.99459e-05 -0.000148059
+std_daily_ret  0.002313461   0.02257053
+sharpe_ratio     0.3427188   -0.1041342
+total_ret          1.02145    0.8344594
+
+end analize.py
+start analyze.py
+
+                        val         $SPX
+avg_daily_ret  8.079403e-05 -0.000148059
+std_daily_ret   0.003325199   0.02257053
+sharpe_ratio      0.3857109   -0.1041342
+total_ret           1.03437    0.8344594
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  5.815503e-05 -0.0001720075
+std_daily_ret   0.001253978    0.02219727
+sharpe_ratio      0.7362031    -0.1230121
+total_ret            1.0281     0.8169453
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0001834725 -0.0001712485
+std_daily_ret   0.003218293    0.02217434
+sharpe_ratio      0.9049938     -0.122596
+total_ret           1.09014     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0002231853 -0.0001712485
+std_daily_ret   0.004521211    0.02217434
+sharpe_ratio      0.7836299     -0.122596
+total_ret           1.10858     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0003432971 -0.0001712485
+std_daily_ret   0.006925618    0.02217434
+sharpe_ratio      0.7868859     -0.122596
+total_ret           1.16715     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0001883272 -0.0001712485
+std_daily_ret    0.01492112    0.02217434
+sharpe_ratio      0.2003605     -0.122596
+total_ret           1.03781     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0008253587 -0.0001712485
+std_daily_ret    0.04889502    0.02217434
+sharpe_ratio      0.2679652     -0.122596
+total_ret           0.83295     0.8171049
+
+end analize.py
+start analyze.py
+
+                     val          $SPX
+avg_daily_ret -0.1275791 -0.0001712485
+std_daily_ret   2.371019    0.02217434
+sharpe_ratio  -0.8541707     -0.122596
+total_ret         0.4108     0.8171049
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  3.713429e-05 -0.0001851521
+std_daily_ret   0.001245048    0.02248369
+sharpe_ratio      0.4734666    -0.1307258
+total_ret           1.01709     0.8153248
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0002122155 -0.0001843373
+std_daily_ret   0.003479074    0.02245961
+sharpe_ratio      0.9683083    -0.1302901
+total_ret           1.10108     0.8154841
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0001554994 -0.0001843373
+std_daily_ret   0.005538902    0.02245961
+sharpe_ratio      0.4456617    -0.1302901
+total_ret           1.06764     0.8154841
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0003623364 -0.0001843373
+std_daily_ret   0.008493301    0.02245961
+sharpe_ratio      0.6772292    -0.1302901
+total_ret           1.16465     0.8154841
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0002702481 -0.0001843373
+std_daily_ret    0.02113887    0.02245961
+sharpe_ratio      0.2029463    -0.1302901
+total_ret           1.02027     0.8154841
+
+end analize.py
+start analyze.py
+
+                       val          $SPX
+avg_daily_ret  0.002998092 -0.0001843373
+std_daily_ret   0.07764323    0.02245961
+sharpe_ratio     0.6129735    -0.1302901
+total_ret          1.02352     0.8154841
+
+end analize.py
+start analyze.py
+
+                       val          $SPX
+avg_daily_ret  0.002007902 -0.0001843373
+std_daily_ret    0.2785114    0.02245961
+sharpe_ratio     0.1144458    -0.1302901
+total_ret          0.65994     0.8154841
+
+end analize.py
+start analyze.py
+
+                       val          $SPX
+avg_daily_ret  6.87094e-05 -0.0001851521
+std_daily_ret  0.001011169    0.02248369
+sharpe_ratio       1.07868    -0.1307258
+total_ret          1.03229     0.8153248
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0001221073 -0.0001843373
+std_daily_ret   0.003022816    0.02245961
+sharpe_ratio       0.641254    -0.1302901
+total_ret           1.05644     0.8154841
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  0.0003026585 -0.0001843373
+std_daily_ret    0.00452859    0.02245961
+sharpe_ratio       1.060938    -0.1302901
+total_ret           1.14634     0.8154841
+
+end analize.py
+start analyze.py
+
+                       val          $SPX
+avg_daily_ret -6.37103e-05 -0.0001843373
+std_daily_ret  0.008769336    0.02245961
+sharpe_ratio    -0.1153302    -0.1302901
+total_ret          0.95332     0.8154841
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret -0.0003630015 -0.0001843373
+std_daily_ret    0.02567173    0.02245961
+sharpe_ratio     -0.2244676    -0.1302901
+total_ret           0.72243     0.8154841
+
+end analize.py
+start analyze.py
+
+                       val          $SPX
+avg_daily_ret  0.001378081 -0.0001843373
+std_daily_ret   0.05213994    0.02245961
+sharpe_ratio       0.41957    -0.1302901
+total_ret          1.00851     0.8154841
+
+end analize.py
+start analyze.py
+
+                     val          $SPX
+avg_daily_ret  0.4304939 -0.0001843373
+std_daily_ret   8.667472    0.02245961
+sharpe_ratio   0.7884513    -0.1302901
+total_ret         0.6058     0.8154841
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  8.658122e-06 -0.0003680868
+std_daily_ret  0.0001046392    0.02428128
+sharpe_ratio       1.313499    -0.2406462
+total_ret           1.00325     0.7797952
+
+end analize.py
+start analyze.py
+
+                        val         $SPX
+avg_daily_ret  2.366601e-05 -0.000333875
+std_daily_ret  0.0003942491   0.02416762
+sharpe_ratio      0.9529161   -0.2193059
+total_ret           1.00898    0.7887071
+
+end analize.py
+start analyze.py
+
+                        val          $SPX
+avg_daily_ret  4.629919e-05 -0.0003328761
+std_daily_ret   0.000587945    0.02404169
+sharpe_ratio       1.250078    -0.2197951
+total_ret           1.01787     0.7874626
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.629919e-05 -0.0005285472
+std_daily_ret   0.000587945    0.02624973
+sharpe_ratio       1.250078    -0.3196386
+total_ret           1.01787     0.7148128
+
+end analize.py
+start analyze.py
+
+                    val     FTSE.AT
+avg_daily_ret    -6e-05  0.00253622
+std_daily_ret     6e-05  0.00253622
+sharpe_ratio  -15.87451    15.87451
+total_ret       0.99988    1.005072
+
+end analize.py
+start analyze.py
+
+                        val     FTSE.AT
+avg_daily_ret  8.332405e-05  0.01262031
+std_daily_ret  0.0001270967  0.01280654
+sharpe_ratio       10.40726    15.64366
+total_ret            1.0005     1.07764
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret  3.000471e-05  0.007967899
+std_daily_ret  0.0001356825   0.01129706
+sharpe_ratio       3.510473     11.19641
+total_ret           1.00033      1.09048
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret  8.101021e-06  0.004507371
+std_daily_ret  0.0001134727   0.01458351
+sharpe_ratio       1.133309     4.906382
+total_ret           1.00017     1.096598
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret  1.608023e-05  0.003490299
+std_daily_ret  0.0001284803   0.01589008
+sharpe_ratio       1.986808     3.486877
+total_ret           1.00082     1.186793
+
+end analize.py
+start analyze.py
+
+                        val     FTSE.AT
+avg_daily_ret  1.573808e-05   0.0020083
+std_daily_ret  0.0001255534  0.01683486
+sharpe_ratio       1.989865    1.893735
+total_ret           1.00159    1.207241
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  4.031435e-06  0.0008573663
+std_daily_ret  0.0001382235    0.01733455
+sharpe_ratio      0.4629967     0.7851527
+total_ret           1.00101      1.194116
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -1.428601e-05  0.003716519
+std_daily_ret  2.499046e-05   0.03262665
+sharpe_ratio        -9.0748     1.808273
+total_ret            0.9999     1.022466
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -4.091564e-05 -0.003256241
+std_daily_ret  6.038261e-05   0.02936847
+sharpe_ratio      -10.75667    -1.760093
+total_ret           0.99955    0.9601426
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -2.812942e-05 -0.005381858
+std_daily_ret  5.503454e-05   0.02761948
+sharpe_ratio      -8.113826    -3.093264
+total_ret           0.99955    0.9116445
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -3.770729e-05 -0.005665917
+std_daily_ret  7.463529e-05   0.02761624
+sharpe_ratio       -8.02013    -3.256912
+total_ret           0.99902    0.8540392
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -1.714678e-05 -0.003174328
+std_daily_ret   9.13087e-05   0.02394852
+sharpe_ratio      -2.981059    -2.104134
+total_ret           0.99904    0.8233987
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -1.975422e-06  0.000461228
+std_daily_ret  0.0001087775   0.02125375
+sharpe_ratio     -0.2882843     0.344493
+total_ret           0.99979     1.025045
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret  9.852503e-07  2.455137e-05
+std_daily_ret  0.0001327359    0.01892439
+sharpe_ratio      0.1178307    0.02059464
+total_ret           1.00025      0.960993
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret -2.450912e-07  0.0006917636
+std_daily_ret  5.091227e-06    0.01891165
+sharpe_ratio     -0.7641972     0.5806688
+total_ret           0.99995      1.110033
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret -7.690807e-07  0.0007091776
+std_daily_ret  2.055892e-05    0.01897359
+sharpe_ratio     -0.5938433     0.5933427
+total_ret           0.99984      1.116089
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -1.173625e-06  0.000565844
+std_daily_ret  2.143388e-05   0.01884838
+sharpe_ratio     -0.8692184    0.4765659
+total_ret           0.99975     1.085958
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret -2.960127e-06  0.0004656884
+std_daily_ret  3.119994e-05    0.01853929
+sharpe_ratio      -1.506111     0.3987518
+total_ret           0.99934      1.067484
+
+end analize.py
+start analyze.py
+
+                        val      FTSE.AT
+avg_daily_ret -4.586375e-06 -0.000195591
+std_daily_ret  5.011334e-05   0.01884072
+sharpe_ratio      -1.452836   -0.1647979
+total_ret           0.99884    0.9097083
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret -1.614887e-06  4.081981e-06
+std_daily_ret  7.307795e-05    0.01863776
+sharpe_ratio     -0.3507971   0.003476783
+total_ret           0.99951     0.9496972
+
+end analize.py
+start analyze.py
+
+                        val       FTSE.AT
+avg_daily_ret -1.055919e-06 -0.0002413038
+std_daily_ret  0.0001224387    0.01849466
+sharpe_ratio     -0.1369027    -0.2071181
+total_ret           0.99963     0.8660956
+
+end analize.py
