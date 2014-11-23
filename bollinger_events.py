@@ -38,7 +38,8 @@ def get_bollingers(df_prices, i_lookback):
 def save_bollingers(df_bollingers, s_out_file_path):
     df_bollingers.to_csv(s_out_file_path, sep=",", header=True, index=True)
 
-def find_bollinger_events(df_bollingers,trigger,market):
+def find_bollinger_events(df_bollingers,trigger,market,switch,switch2):
+    count = 0
     df_events = np.NAN * copy.deepcopy(df_bollingers)
     ldt_timestamps = df_bollingers.index
     for s_symbol in ls_symbols:
@@ -46,9 +47,10 @@ def find_bollinger_events(df_bollingers,trigger,market):
             f_bollinger_today = df_bollingers[s_symbol].ix[ldt_timestamps[i]]
             f_bollinger_yest = df_bollingers[s_symbol].ix[ldt_timestamps[i - 1]]
             f_bollinger_index = df_bollingers[ls_symbols[-1]].ix[ldt_timestamps[i]]
-            if f_bollinger_today < trigger and f_bollinger_yest >= trigger and f_bollinger_index >= market:
+            if f_bollinger_today*switch2 < trigger*switch2 and f_bollinger_yest*switch2 >= trigger*switch2 and (f_bollinger_index*switch)  >= (switch*market):
                 df_events[s_symbol].ix[ldt_timestamps[i]] = 1
-    return df_events
+                count = count +1 
+    return df_events, count
 
 def generate_order(ldt_dates, t, delta_t, s_symbol, i_num):
     l_buy_order = [ldt_dates[t], s_symbol, "Buy", i_num]  
@@ -91,9 +93,11 @@ if __name__ == '__main__':
     s_delta_t = sys.argv[2]
     trigger= sys.argv[3] 
     market=sys.argv[4]
+    switch=sys.argv[5]
+    switch2=sys.argv[6]
     s_num = "100"
     s_start = "2012-09-01"
-    s_end = "2014-10-06"
+    s_end = "2014-11-04"
     
     s_bollingers_file_path = "data\\q1_bollinger" + ".csv"
     s_events_file_path = "data\\q1_bollinger_events" + ".csv"
@@ -101,6 +105,8 @@ if __name__ == '__main__':
     s_orders_file_path = "data\\q1_orders" + ".csv"
     trigger=float(trigger) 
     market=float(market) 
+    switch=float(switch)
+    switch2=float(switch2)
     i_lookback = int(s_lookback)
     delta_t = int(s_delta_t)
     i_num = int(s_num)
@@ -115,9 +121,9 @@ if __name__ == '__main__':
     df_bollingers = get_bollingers(d_data["close"], i_lookback)
     save_bollingers(df_bollingers, s_bollingers_file_path)
     
-    df_bollinger_events = find_bollinger_events(df_bollingers,trigger,market)
+    df_bollinger_events,count = find_bollinger_events(df_bollingers,trigger,market,switch,switch2)
     
     df_orders = generate_orders(df_bollinger_events, i_num, delta_t)
     save_orders(df_orders, s_orders_file_path)
-    
+    print count 
     print "end bollinger_events.py"

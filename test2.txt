@@ -1,1281 +1,3 @@
-
-:wq!
-
-lookback period is 10
-holding period is 1
-trigger is -2
-start analyze.py
-
-                    val     FTSE.AT
-avg_daily_ret    -6e-05  0.00253622
-std_daily_ret     6e-05  0.00253622
-sharpe_ratio  -15.87451    15.87451
-total_ret       0.99988    1.005072
-
-end analize.py
-lookback period is 10
-holding period is 1
-trigger is -1
-start analyze.py
-
-                        val     FTSE.AT
-avg_daily_ret -7.449854e-07  0.00075471
-std_daily_ret  1.391857e-05  0.01920417
-sharpe_ratio     -0.8496764   0.6238569
-total_ret           0.99974    1.220047
-
-end analize.py
-lookback period is 10
-holding period is 1
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.186653e-07  0.0008622252
-std_daily_ret  1.358737e-05    0.01933173
-sharpe_ratio     -0.2554729     0.7080276
-total_ret           0.99993      1.241076
-
-end analize.py
-lookback period is 10
-holding period is 1
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.690108e-06  0.0007985871
-std_daily_ret  9.798386e-05    0.02124778
-sharpe_ratio     -0.2738169     0.5966354
-total_ret           0.99918      1.318704
-
-end analize.py
-lookback period is 10
-holding period is 1
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.864193e-05  0.0006827459
-std_daily_ret  0.0007052458    0.02110743
-sharpe_ratio     -0.6447065     0.5134805
-total_ret           0.98617      1.247407
-
-end analize.py
-lookback period is 10
-holding period is 5
-trigger is -2
-start analyze.py
-
-                        val     FTSE.AT
-avg_daily_ret  8.332405e-05  0.01262031
-std_daily_ret  0.0001270967  0.01280654
-sharpe_ratio       10.40726    15.64366
-total_ret            1.0005     1.07764
-
-end analize.py
-lookback period is 10
-holding period is 5
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  5.039587e-06  0.0007274521
-std_daily_ret  5.592922e-05    0.01910157
-sharpe_ratio       1.430397     0.6045548
-total_ret           1.00178      1.211971
-
-end analize.py
-lookback period is 10
-holding period is 5
-trigger is 0
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret  5.029272e-06  0.000738011
-std_daily_ret  7.058369e-05   0.01926808
-sharpe_ratio         1.1311    0.6080296
-total_ret           1.00163     1.195852
-
-end analize.py
-lookback period is 10
-holding period is 5
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.670819e-06  0.0007785102
-std_daily_ret  0.0001428006    0.02116482
-sharpe_ratio     -0.1857376     0.5839154
-total_ret           0.99918      1.309975
-
-end analize.py
-lookback period is 10
-holding period is 5
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -4.020613e-06  0.0006635398
-std_daily_ret   0.001371701    0.02102463
-sharpe_ratio    -0.04653002     0.5010013
-total_ret           0.99759      1.239151
-
-end analize.py
-lookback period is 10
-holding period is 10
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret  3.000471e-05  0.007967899
-std_daily_ret  0.0001356825   0.01129706
-sharpe_ratio       3.510473     11.19641
-total_ret           1.00033      1.09048
-
-end analize.py
-lookback period is 10
-holding period is 10
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  2.180595e-06  0.0006628857
-std_daily_ret  7.310442e-05    0.01920288
-sharpe_ratio      0.4735128     0.5479899
-total_ret           1.00078      1.186711
-
-end analize.py
-lookback period is 10
-holding period is 10
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret   4.80216e-06  0.0005051244
-std_daily_ret  8.374525e-05    0.01939545
-sharpe_ratio      0.9102835     0.4134268
-total_ret           1.00158       1.10983
-
-end analize.py
-lookback period is 10
-holding period is 10
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.142357e-05  0.0007311064
-std_daily_ret  0.0004230912    0.02121157
-sharpe_ratio      -0.428616     0.5471521
-total_ret           0.99434      1.282672
-
-end analize.py
-lookback period is 10
-holding period is 10
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0001718519  0.0006171137
-std_daily_ret   0.002304431    0.02107306
-sharpe_ratio       1.183834     0.4648768
-total_ret           1.08662      1.213323
-
-end analize.py
-lookback period is 10
-holding period is 20
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret  8.101021e-06  0.004507371
-std_daily_ret  0.0001134727   0.01458351
-sharpe_ratio       1.133309     4.906382
-total_ret           1.00017     1.096598
-
-end analize.py
-lookback period is 10
-holding period is 20
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  3.592031e-07  0.0004526158
-std_daily_ret  0.0001000335    0.01911654
-sharpe_ratio     0.05700264     0.3758553
-total_ret           1.00013      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 20
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  2.220424e-06  0.0007616336
-std_daily_ret  0.0001331283    0.01932059
-sharpe_ratio      0.2647682     0.6257861
-total_ret           1.00075       1.21504
-
-end analize.py
-lookback period is 10
-holding period is 20
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -7.786577e-06  0.0005761601
-std_daily_ret  0.0006280729    0.02112074
-sharpe_ratio     -0.1968053     0.4330462
-total_ret             0.996      1.193289
-
-end analize.py
-lookback period is 10
-holding period is 20
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0001840868  0.0004635995
-std_daily_ret   0.004787451    0.02098295
-sharpe_ratio      0.6104056      0.350733
-total_ret           1.09014      1.128773
-
-end analize.py
-lookback period is 10
-holding period is 50
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret  1.608023e-05  0.003490299
-std_daily_ret  0.0001284803   0.01589008
-sharpe_ratio       1.986808     3.486877
-total_ret           1.00082     1.186793
-
-end analize.py
-lookback period is 10
-holding period is 50
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  6.634124e-06  0.0004526158
-std_daily_ret  0.0002043868    0.01911654
-sharpe_ratio      0.5152655     0.3758553
-total_ret           1.00243      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 50
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  8.551282e-06  0.0004526158
-std_daily_ret  0.0002681851    0.01911654
-sharpe_ratio      0.5061705     0.3758553
-total_ret           1.00313      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 50
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.070672e-05  0.0005761601
-std_daily_ret   0.001039652    0.02112074
-sharpe_ratio     -0.3161721     0.4330462
-total_ret           0.98939      1.193289
-
-end analize.py
-lookback period is 10
-holding period is 50
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -8.114382e-06  0.0004635995
-std_daily_ret   0.008591559    0.02098295
-sharpe_ratio    -0.01499283      0.350733
-total_ret           0.97764      1.128773
-
-end analize.py
-lookback period is 10
-holding period is 100
-trigger is -2
-start analyze.py
-
-                        val     FTSE.AT
-avg_daily_ret  1.573808e-05   0.0020083
-std_daily_ret  0.0001255534  0.01683486
-sharpe_ratio       1.989865    1.893735
-total_ret           1.00159    1.207241
-
-end analize.py
-lookback period is 10
-holding period is 100
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  1.756501e-05  0.0004526158
-std_daily_ret  0.0003045573    0.01911654
-sharpe_ratio       0.915545     0.3758553
-total_ret           1.00645      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 100
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  1.941922e-05  0.0004526158
-std_daily_ret  0.0004177355    0.01911654
-sharpe_ratio      0.7379566     0.3758553
-total_ret           1.00712      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 100
-trigger is 1
-start analyze.py
-
-                       val       FTSE.AT
-avg_daily_ret -2.15306e-05  0.0005761601
-std_daily_ret  0.001359866    0.02112074
-sharpe_ratio    -0.2513393     0.4330462
-total_ret          0.98879      1.193289
-
-end analize.py
-lookback period is 10
-holding period is 100
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0004475852  0.0004635995
-std_daily_ret    0.01134703    0.02098295
-sharpe_ratio      0.6261724      0.350733
-total_ret           1.21109      1.128773
-
-end analize.py
-lookback period is 10
-holding period is 250
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  4.031435e-06  0.0008573663
-std_daily_ret  0.0001382235    0.01733455
-sharpe_ratio      0.4629967     0.7851527
-total_ret           1.00101      1.194116
-
-end analize.py
-lookback period is 10
-holding period is 250
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  1.791455e-05  0.0004526158
-std_daily_ret  0.0005988502    0.01911654
-sharpe_ratio      0.4748844     0.3758553
-total_ret           1.00653      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 250
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  3.275036e-05  0.0004526158
-std_daily_ret  0.0009330844    0.01911654
-sharpe_ratio      0.5571798     0.3758553
-total_ret           1.01193      1.104015
-
-end analize.py
-lookback period is 10
-holding period is 250
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.547372e-05  0.0005761601
-std_daily_ret   0.002387103    0.02112074
-sharpe_ratio     -0.1694032     0.4330462
-total_ret           0.98588      1.193289
-
-end analize.py
-lookback period is 10
-holding period is 250
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0006210002  0.0004635995
-std_daily_ret    0.01993236    0.02098295
-sharpe_ratio      0.4945762      0.350733
-total_ret           1.23502      1.128773
-
-end analize.py
-lookback period is 15
-holding period is 1
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -1.428601e-05  0.003716519
-std_daily_ret  2.499046e-05   0.03262665
-sharpe_ratio        -9.0748     1.808273
-total_ret            0.9999     1.022466
-
-end analize.py
-lookback period is 15
-holding period is 1
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -4.203784e-07  0.0003683861
-std_daily_ret  1.194953e-05    0.01877828
-sharpe_ratio      -0.558457     0.3114209
-total_ret           0.99986      1.065807
-
-end analize.py
-lookback period is 15
-holding period is 1
-trigger is 0
-start analyze.py
-
-                       val      FTSE.AT
-avg_daily_ret -2.32797e-06  0.000534662
-std_daily_ret  3.00919e-05   0.01965357
-sharpe_ratio     -1.228084    0.4318552
-total_ret          0.99909     1.142738
-
-end analize.py
-lookback period is 15
-holding period is 1
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.078028e-06  0.0008302795
-std_daily_ret  7.525422e-05    0.02132939
-sharpe_ratio     -0.4383497     0.6179398
-total_ret           0.99901      1.331518
-
-end analize.py
-lookback period is 15
-holding period is 1
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  2.702843e-05  0.0007167811
-std_daily_ret   0.001470647    0.02120992
-sharpe_ratio      0.2917512     0.5364728
-total_ret           1.01235      1.261114
-
-end analize.py
-lookback period is 15
-holding period is 5
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -4.091564e-05 -0.003256241
-std_daily_ret  6.038261e-05   0.02936847
-sharpe_ratio      -10.75667    -1.760093
-total_ret           0.99955    0.9601426
-
-end analize.py
-lookback period is 15
-holding period is 5
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret   1.27645e-06  0.0002870159
-std_daily_ret  3.896185e-05    0.01873286
-sharpe_ratio      0.5200732     0.2432217
-total_ret           1.00043      1.038074
-
-end analize.py
-lookback period is 15
-holding period is 5
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -9.335653e-07  0.0004360919
-std_daily_ret  8.143475e-05    0.01959738
-sharpe_ratio     -0.1819849     0.3532484
-total_ret           0.99963      1.101098
-
-end analize.py
-lookback period is 15
-holding period is 5
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  -5.74633e-06  0.0007936044
-std_daily_ret  0.0001523254    0.02126808
-sharpe_ratio     -0.5988506     0.5923469
-total_ret           0.99724       1.31228
-
-end analize.py
-lookback period is 15
-holding period is 5
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0001429098  0.0006483785
-std_daily_ret   0.003823502    0.02113976
-sharpe_ratio      0.5933361     0.4868877
-total_ret           1.06679      1.223925
-
-end analize.py
-lookback period is 15
-holding period is 10
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -2.812942e-05 -0.005381858
-std_daily_ret  5.503454e-05   0.02761948
-sharpe_ratio      -8.113826    -3.093264
-total_ret           0.99955    0.9116445
-
-end analize.py
-lookback period is 15
-holding period is 10
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  1.229507e-06  0.0001326159
-std_daily_ret  5.821533e-05    0.01870915
-sharpe_ratio      0.3352695     0.1125231
-total_ret           1.00042     0.9853792
-
-end analize.py
-lookback period is 15
-holding period is 10
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret   3.95643e-06  0.0002483167
-std_daily_ret  0.0001381442    0.01969373
-sharpe_ratio      0.4546435     0.2001604
-total_ret           1.00158      1.021891
-
-end analize.py
-lookback period is 15
-holding period is 10
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -3.448397e-06  0.0008078588
-std_daily_ret  0.0002796488    0.02122685
-sharpe_ratio     -0.1957512     0.6041577
-total_ret           0.99831      1.325687
-
-end analize.py
-lookback period is 15
-holding period is 10
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -0.0001739733  0.0006827459
-std_daily_ret   0.005827807    0.02110743
-sharpe_ratio       -0.47389     0.5134805
-total_ret           0.91191      1.247407
-
-end analize.py
-lookback period is 15
-holding period is 20
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -3.770729e-05 -0.005665917
-std_daily_ret  7.463529e-05   0.02761624
-sharpe_ratio       -8.02013    -3.256912
-total_ret           0.99902    0.8540392
-
-end analize.py
-lookback period is 15
-holding period is 20
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  7.418417e-07  1.694279e-05
-std_daily_ret  8.125583e-05    0.01872793
-sharpe_ratio      0.1449296    0.01436136
-total_ret           1.00026     0.9455493
-
-end analize.py
-lookback period is 15
-holding period is 20
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.058278e-05  0.0004666696
-std_daily_ret  0.0002260754    0.01962854
-sharpe_ratio     -0.7430995     0.3774174
-total_ret           0.99566      1.118765
-
-end analize.py
-lookback period is 15
-holding period is 20
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.185794e-05  0.0006757412
-std_daily_ret  0.0006010011    0.02120492
-sharpe_ratio     -0.5773434      0.505876
-total_ret           0.98915      1.249363
-
-end analize.py
-lookback period is 15
-holding period is 20
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -0.0004465293  0.0005612524
-std_daily_ret   0.009427883    0.02108799
-sharpe_ratio     -0.7518583     0.4224966
-total_ret           0.78506      1.180725
-
-end analize.py
-lookback period is 15
-holding period is 50
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -1.714678e-05 -0.003174328
-std_daily_ret   9.13087e-05   0.02394852
-sharpe_ratio      -2.981059    -2.104134
-total_ret           0.99904    0.8233987
-
-end analize.py
-lookback period is 15
-holding period is 50
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  7.986562e-06 -7.184939e-06
-std_daily_ret  0.0001349626    0.01870686
-sharpe_ratio      0.9393914  -0.006097088
-total_ret           1.00282      0.937512
-
-end analize.py
-lookback period is 15
-holding period is 50
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.783025e-05  0.0002265999
-std_daily_ret  0.0003086112    0.01943749
-sharpe_ratio     -0.9171617     0.1850631
-total_ret            0.9922      1.016537
-
-end analize.py
-lookback period is 15
-holding period is 50
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -3.688464e-05  0.0005761601
-std_daily_ret  0.0008864998    0.02112074
-sharpe_ratio     -0.6604914     0.4330462
-total_ret           0.98146      1.193289
-
-end analize.py
-lookback period is 15
-holding period is 50
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -0.0001666161  0.0004635995
-std_daily_ret    0.01452122    0.02098295
-sharpe_ratio     -0.1821436      0.350733
-total_ret           0.87227      1.128773
-
-end analize.py
-lookback period is 15
-holding period is 100
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -1.975422e-06  0.000461228
-std_daily_ret  0.0001087775   0.02125375
-sharpe_ratio     -0.2882843     0.344493
-total_ret           0.99979     1.025045
-
-end analize.py
-lookback period is 15
-holding period is 100
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret   8.33645e-06 -7.184939e-06
-std_daily_ret  0.0002001364    0.01870686
-sharpe_ratio      0.6612341  -0.006097088
-total_ret           1.00294      0.937512
-
-end analize.py
-lookback period is 15
-holding period is 100
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.968188e-05  0.0002265999
-std_daily_ret  0.0007918439    0.01943749
-sharpe_ratio     -0.3945729     0.1850631
-total_ret           0.99128      1.016537
-
-end analize.py
-lookback period is 15
-holding period is 100
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.674839e-05  0.0005761601
-std_daily_ret   0.001684808    0.02112074
-sharpe_ratio     -0.1578058     0.4330462
-total_ret           0.99092      1.193289
-
-end analize.py
-lookback period is 15
-holding period is 100
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0003075415  0.0004635995
-std_daily_ret    0.02024597    0.02098295
-sharpe_ratio      0.2411379      0.350733
-total_ret           1.05178      1.128773
-
-end analize.py
-lookback period is 15
-holding period is 250
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  9.852503e-07  2.455137e-05
-std_daily_ret  0.0001327359    0.01892439
-sharpe_ratio      0.1178307    0.02059464
-total_ret           1.00025      0.960993
-
-end analize.py
-lookback period is 15
-holding period is 250
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  2.046687e-07 -7.184939e-06
-std_daily_ret  0.0003550438    0.01870686
-sharpe_ratio    0.009151024  -0.006097088
-total_ret           1.00005      0.937512
-
-end analize.py
-lookback period is 15
-holding period is 250
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.519634e-05  0.0002265999
-std_daily_ret   0.001019016    0.01943749
-sharpe_ratio     -0.2367326     0.1850631
-total_ret           0.99314      1.016537
-
-end analize.py
-lookback period is 15
-holding period is 250
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.326425e-05  0.0005761601
-std_daily_ret     0.0026428    0.02112074
-sharpe_ratio    -0.07967437     0.4330462
-total_ret           0.99162      1.193289
-
-end analize.py
-lookback period is 15
-holding period is 250
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0006260327  0.0004635995
-std_daily_ret     0.0373485    0.02098295
-sharpe_ratio      0.2660873      0.350733
-total_ret           0.96289      1.128773
-
-end analize.py
-lookback period is 20
-holding period is 1
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.450912e-07  0.0006917636
-std_daily_ret  5.091227e-06    0.01891165
-sharpe_ratio     -0.7641972     0.5806688
-total_ret           0.99995      1.110033
-
-end analize.py
-lookback period is 20
-holding period is 1
-trigger is -1
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -8.133641e-07  0.001064867
-std_daily_ret  1.427153e-05    0.0192314
-sharpe_ratio     -0.9047213    0.8789918
-total_ret           0.99983     1.201564
-
-end analize.py
-lookback period is 20
-holding period is 1
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.352453e-06  0.0006857231
-std_daily_ret  2.660986e-05    0.01958634
-sharpe_ratio      -1.403391     0.5557709
-total_ret           0.99897       1.24138
-
-end analize.py
-lookback period is 20
-holding period is 1
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.287235e-07  0.0005226109
-std_daily_ret   3.43717e-05    0.02110193
-sharpe_ratio    -0.05945073     0.3931484
-total_ret           0.99994      1.148646
-
-end analize.py
-lookback period is 20
-holding period is 1
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -3.022225e-05  0.0006827459
-std_daily_ret   0.001928637    0.02110743
-sharpe_ratio     -0.2487577     0.5134805
-total_ret           0.98465      1.247407
-
-end analize.py
-lookback period is 20
-holding period is 5
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -7.690807e-07  0.0007091776
-std_daily_ret  2.055892e-05    0.01897359
-sharpe_ratio     -0.5938433     0.5933427
-total_ret           0.99984      1.116089
-
-end analize.py
-lookback period is 20
-holding period is 5
-trigger is -1
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret  2.113029e-06  0.001074866
-std_daily_ret  4.064127e-05   0.01928469
-sharpe_ratio      0.8253504    0.8847931
-total_ret           1.00045      1.20812
-
-end analize.py
-lookback period is 20
-holding period is 5
-trigger is 0
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -7.680285e-07  0.000664578
-std_daily_ret  5.162779e-05   0.01950253
-sharpe_ratio     -0.2361534    0.5409476
-total_ret           0.99966     1.233164
-
-end analize.py
-lookback period is 20
-holding period is 5
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -3.523126e-06  0.0005496035
-std_daily_ret  0.0001041179    0.02106059
-sharpe_ratio     -0.5371591     0.4142659
-total_ret           0.99835      1.165115
-
-end analize.py
-lookback period is 20
-holding period is 5
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  2.106997e-05  0.0006635398
-std_daily_ret   0.003756078    0.02102463
-sharpe_ratio     0.08904908     0.5010013
-total_ret           1.00682      1.239151
-
-end analize.py
-lookback period is 20
-holding period is 10
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -1.173625e-06  0.000565844
-std_daily_ret  2.143388e-05   0.01884838
-sharpe_ratio     -0.8692184    0.4765659
-total_ret           0.99975     1.085958
-
-end analize.py
-lookback period is 20
-holding period is 10
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  1.514887e-06  0.0009264321
-std_daily_ret   5.24276e-05    0.01915992
-sharpe_ratio      0.4586913     0.7675739
-total_ret           1.00033      1.175504
-
-end analize.py
-lookback period is 20
-holding period is 10
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.071854e-06  0.0006135704
-std_daily_ret  6.676613e-05    0.01957749
-sharpe_ratio     -0.2548471     0.4975167
-total_ret           0.99952      1.207461
-
-end analize.py
-lookback period is 20
-holding period is 10
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -4.325341e-06  0.0005130953
-std_daily_ret  0.0001621033    0.02099768
-sharpe_ratio     -0.4235734     0.3879064
-total_ret           0.99795      1.147766
-
-end analize.py
-lookback period is 20
-holding period is 10
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -0.0004622572  0.0006171137
-std_daily_ret   0.006999716    0.02107306
-sharpe_ratio      -1.048343     0.4648768
-total_ret           0.78721      1.213323
-
-end analize.py
-lookback period is 20
-holding period is 20
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.960127e-06  0.0004656884
-std_daily_ret  3.119994e-05    0.01853929
-sharpe_ratio      -1.506111     0.3987518
-total_ret           0.99934      1.067484
-
-end analize.py
-lookback period is 20
-holding period is 20
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.278461e-06  0.0008126577
-std_daily_ret  7.525543e-05    0.01885083
-sharpe_ratio     -0.4806224     0.6843488
-total_ret           0.99948      1.155507
-
-end analize.py
-lookback period is 20
-holding period is 20
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -2.408948e-06  0.0004453134
-std_daily_ret  9.651616e-05    0.01950177
-sharpe_ratio      -0.396212     0.3624866
-total_ret            0.9989       1.12332
-
-end analize.py
-lookback period is 20
-holding period is 20
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -8.008552e-06  0.0003589614
-std_daily_ret  0.0002834043    0.02098937
-sharpe_ratio     -0.4485882     0.2714867
-total_ret           0.99612      1.068666
-
-end analize.py
-lookback period is 20
-holding period is 20
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -0.0005000758  0.0004635995
-std_daily_ret    0.01137836    0.02098295
-sharpe_ratio     -0.6976805      0.350733
-total_ret           0.75349      1.128773
-
-end analize.py
-lookback period is 20
-holding period is 50
-trigger is -2
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret -4.586375e-06 -0.000195591
-std_daily_ret  5.011334e-05   0.01884072
-sharpe_ratio      -1.452836   -0.1647979
-total_ret           0.99884    0.9097083
-
-end analize.py
-lookback period is 20
-holding period is 50
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  -4.83921e-06  0.0001238485
-std_daily_ret  0.0001324369    0.01911719
-sharpe_ratio     -0.5800506     0.1028412
-total_ret           0.99875     0.9847209
-
-end analize.py
-lookback period is 20
-holding period is 50
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.034764e-06  0.0004453134
-std_daily_ret  0.0001903886    0.01950177
-sharpe_ratio    -0.08627811     0.3624866
-total_ret           0.99952       1.12332
-
-end analize.py
-lookback period is 20
-holding period is 50
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -9.921608e-07  0.0002933198
-std_daily_ret  0.0004288406    0.02091334
-sharpe_ratio    -0.03672708     0.2226478
-total_ret           0.99947      1.036578
-
-end analize.py
-lookback period is 20
-holding period is 50
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -3.336468e-05  0.0004635995
-std_daily_ret    0.01756388    0.02098295
-sharpe_ratio    -0.03015551      0.350733
-total_ret           0.90967      1.128773
-
-end analize.py
-lookback period is 20
-holding period is 100
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.614887e-06  4.081981e-06
-std_daily_ret  7.307795e-05    0.01863776
-sharpe_ratio     -0.3507971   0.003476783
-total_ret           0.99951     0.9496972
-
-end analize.py
-lookback period is 20
-holding period is 100
-trigger is -1
-start analyze.py
-
-                        val      FTSE.AT
-avg_daily_ret  1.966832e-06  0.000268423
-std_daily_ret   0.000196797   0.01887298
-sharpe_ratio      0.1586532    0.2257769
-total_ret            1.0006     1.028007
-
-end analize.py
-lookback period is 20
-holding period is 100
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  6.406381e-06  0.0004453134
-std_daily_ret   0.000334431    0.01950177
-sharpe_ratio      0.3040931     0.3624866
-total_ret            1.0029       1.12332
-
-end analize.py
-lookback period is 20
-holding period is 100
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret   1.41751e-06  0.0002933198
-std_daily_ret  0.0007383177    0.02091334
-sharpe_ratio     0.03047775     0.2226478
-total_ret           1.00056      1.036578
-
-end analize.py
-lookback period is 20
-holding period is 100
-trigger is 2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  0.0007678807  0.0004635995
-std_daily_ret    0.02738363    0.02098295
-sharpe_ratio      0.4451466      0.350733
-total_ret           1.21527      1.128773
-
-end analize.py
-lookback period is 20
-holding period is 250
-trigger is -2
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -1.055919e-06 -0.0002413038
-std_daily_ret  0.0001224387    0.01849466
-sharpe_ratio     -0.1369027    -0.2071181
-total_ret           0.99963     0.8660956
-
-end analize.py
-lookback period is 20
-holding period is 250
-trigger is -1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  1.567871e-06 -7.184939e-06
-std_daily_ret  0.0003656407    0.01870686
-sharpe_ratio     0.06807004  -0.006097088
-total_ret           1.00053      0.937512
-
-end analize.py
-lookback period is 20
-holding period is 250
-trigger is 0
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret -3.245626e-06  0.0004453134
-std_daily_ret  0.0006325126    0.01950177
-sharpe_ratio    -0.08145721     0.3624866
-total_ret           0.99843       1.12332
-
-end analize.py
-lookback period is 20
-holding period is 250
-trigger is 1
-start analyze.py
-
-                        val       FTSE.AT
-avg_daily_ret  2.134537e-05  0.0002933198
-std_daily_ret   0.001535452    0.02091334
-sharpe_ratio      0.2206824     0.2226478
-total_ret           1.00991      1.036578
-
-end analize.py
-lookback period is 20
-holding period is 250
-trigger is 2
-start analyze.py
-
-                       val       FTSE.AT
-avg_daily_ret  0.001436281  0.0004635995
-std_daily_ret    0.0486135    0.02098295
-sharpe_ratio     0.4690109      0.350733
-total_ret          1.12921      1.128773
-
-end analize.py
-lookback period is 10
-holding period is 1
-trigger is -1.5
-start analyze.py
-
-lookback period is 10
-holding period is 1
-trigger is -1.5
-start analyze.py
-
-lookback period is 10
-holding period is 1
-trigger is -1.5
-start analyze.py
-
 lookback period is 10
 holding period is 1
 trigger is -1.5
@@ -1284,6 +6,15 @@ holding period is 1
 trigger is -1.5
 lookback period is 10
 holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
 trigger is -1.3
 lookback period is 10
 holding period is 1
@@ -1327,268 +58,87 @@ trigger is 0
 lookback period is 10
 holding period is 1
 trigger is 0
-lookback period is 10
-holding period is 1
-trigger is 1.0
-lookback period is 10
-holding period is 1
-trigger is 1.0
-lookback period is 10
-holding period is 1
-trigger is 1.0
-lookback period is 10
-holding period is 1
-trigger is 1.0
-lookback period is 10
-holding period is 1
-trigger is 1.0
 lookback period is 10
 holding period is 1
-trigger is 1.3
-lookback period is 10
-holding period is 1
-trigger is 1.3
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.3
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.3
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.3
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.5
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.5
+trigger is -1.3
 lookback period is 10
 holding period is 1
-trigger is 1.5
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.5
+trigger is -1.5
 lookback period is 10
 holding period is 1
-trigger is 1.5
-lookback period is 10
-holding period is 5
 trigger is -1.5
 lookback period is 10
-holding period is 5
+holding period is 1
 trigger is -1.5
 lookback period is 10
-holding period is 5
+holding period is 1
 trigger is -1.5
 lookback period is 10
 holding period is 1
 trigger is -1.5
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret  5.476989e-06  0.0006307663
-std_daily_ret  0.0001189498    0.02115246
-sharpe_ratio      0.7309343     0.4733779
-total_ret           1.00281      1.231559
-0.257556351298
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.5
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret  3.152699e-07  0.0006486001
-std_daily_ret  7.476279e-05    0.02116925
-sharpe_ratio     0.06694177     0.4863757
-total_ret           1.00016      1.242117
--0.41943391761
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.5
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -3.164655e-06  0.0009103286
-std_daily_ret  6.497107e-05    0.02128065
-sharpe_ratio     -0.7732263     0.6790684
-total_ret           0.99844      1.400094
--1.45229468825
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.5
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -4.804273e-07  0.0003683861
-std_daily_ret  1.352734e-05    0.01877828
-sharpe_ratio     -0.5637877     0.3114209
-total_ret           0.99984      1.065807
--0.875208595107
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.5
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -9.002161e-08  0.0003683861
-std_daily_ret  1.181731e-05    0.01877828
-sharpe_ratio     -0.1209284     0.3114209
-total_ret           0.99997      1.065807
--0.432349305802
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.3
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -1.692657e-05  0.0006307663
-std_daily_ret  0.0007524462    0.02115246
-sharpe_ratio     -0.3571032     0.4733779
-total_ret           0.99121      1.231559
--0.830481122444
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.3
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -3.606508e-06  0.0006307663
-std_daily_ret   7.82691e-05    0.02115246
-sharpe_ratio     -0.7314705     0.4733779
-total_ret           0.99815      1.231559
--1.20484838804
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.3
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -3.822969e-06  0.0008889516
-std_daily_ret  5.929814e-05    0.02129698
-sharpe_ratio      -1.023434     0.6626136
-total_ret           0.99812      1.384274
--1.68604788605
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.3
-start analyze.py
-
-
-                        val      FTSE.AT
-avg_daily_ret -9.012639e-07  0.001332998
-std_daily_ret  1.535253e-05   0.01962354
-sharpe_ratio     -0.9319064     1.078332
-total_ret           0.99979     1.304097
--2.01023844302
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.3
-start analyze.py
-
-
-                        val     FTSE.AT
-avg_daily_ret -2.031097e-06 -0.00108749
-std_daily_ret  2.379572e-05  0.02333345
-sharpe_ratio      -1.354977  -0.7398552
-total_ret           0.99987   0.9164449
--0.615121913277
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.0
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret  2.511414e-05  0.0006622214
-std_daily_ret    0.00158289    0.02113706
-sharpe_ratio       0.251865     0.4973464
-total_ret           1.01222      1.249616
--0.245481407533
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.0
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret  4.204789e-06  0.0006622214
-std_daily_ret  9.951563e-05    0.02113706
-sharpe_ratio      0.6707384     0.4973464
-total_ret           1.00214      1.249616
-0.173391991956
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.0
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -1.855309e-08  0.0004855419
-std_daily_ret  7.441899e-05    0.02106016
-sharpe_ratio   -0.003957607     0.3659867
-total_ret           0.99999      1.131012
--0.369944327878
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.0
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret  1.945479e-10  0.0004412214
-std_daily_ret  1.972632e-05    0.01953507
-sharpe_ratio     0.00015656     0.3585435
-total_ret                 1      1.107433
--0.358386929479
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is -1.0
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -1.090993e-06  0.0006169434
-std_daily_ret  1.257399e-05    0.01909912
-sharpe_ratio      -1.377365     0.5127814
-total_ret            0.9997      1.126704
--1.89014642026
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is 0
-start analyze.py
-
-
-                        val       FTSE.AT
-avg_daily_ret -7.445199e-05  0.0006665309
-std_daily_ret   0.001601136    0.02111655
-sharpe_ratio     -0.7381562     0.5010692
-total_ret           0.96211       1.25319
--1.23922531206
-end analize.py
 lookback period is 10
 holding period is 1
 trigger is 0
@@ -1631,81 +181,6 @@ trigger is 1.3
 lookback period is 10
 holding period is 1
 trigger is 1.3
-lookback period is 10
-holding period is 1
-trigger is 1.5
-lookback period is 10
-holding period is 1
-trigger is 1.5
-lookback period is 10
-holding period is 1
-trigger is 1.5
-lookback period is 10
-holding period is 1
-trigger is 1.5
-lookback period is 10
-holding period is 1
-trigger is -1.5
-lookback period is 10
-holding period is 1
-trigger is -1.5
-lookback period is 10
-holding period is 1
-trigger is -1.5
-lookback period is 10
-holding period is 1
-trigger is -1.5
-lookback period is 10
-holding period is 1
-trigger is -1.5
-lookback period is 10
-holding period is 1
-trigger is -1.3
-lookback period is 10
-holding period is 1
-trigger is -1.3
-lookback period is 10
-holding period is 1
-trigger is -1.3
-lookback period is 10
-holding period is 1
-trigger is -1.3
-lookback period is 10
-holding period is 1
-trigger is -1.3
-lookback period is 10
-holding period is 1
-trigger is -1.0
-lookback period is 10
-holding period is 1
-trigger is -1.0
-lookback period is 10
-holding period is 1
-trigger is -1.0
-lookback period is 10
-holding period is 1
-trigger is -1.0
-lookback period is 10
-holding period is 1
-trigger is -1.0
-lookback period is 10
-holding period is 1
-trigger is 0
-lookback period is 10
-holding period is 1
-trigger is 0
-lookback period is 10
-holding period is 1
-trigger is 0
-lookback period is 10
-holding period is 1
-trigger is 0
-lookback period is 10
-holding period is 1
-trigger is 0
-lookback period is 10
-holding period is 1
-trigger is 1.0
 lookback period is 10
 holding period is 1
 trigger is -1.5
@@ -2396,1518 +871,4638 @@ trigger is 0
 lookback period is 10
 holding period is 250
 trigger is 0
-lookback period is 10
-holding period is 250
-trigger is 1.0
 lookback period is 10
-holding period is 250
-trigger is 1.0
-lookback period is 10
-holding period is 250
-trigger is 1.0
-lookback period is 10
-holding period is 250
-trigger is 1.0
-lookback period is 10
-holding period is 250
-trigger is 1.0
-lookback period is 10
-holding period is 250
-trigger is 1.3
-lookback period is 10
-holding period is 250
-trigger is 1.3
-lookback period is 10
-holding period is 250
-trigger is 1.3
-lookback period is 10
-holding period is 250
-trigger is 1.3
-lookback period is 10
-holding period is 250
-trigger is 1.3
-lookback period is 10
-holding period is 250
-trigger is 1.5
-lookback period is 10
-holding period is 250
-trigger is 1.5
-lookback period is 10
-holding period is 250
-trigger is 1.5
-lookback period is 10
-holding period is 250
-trigger is 1.5
-lookback period is 10
-holding period is 250
-trigger is 1.5
-lookback period is 15
 holding period is 1
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 1
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 5
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 10
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 20
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 50
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 100
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is -1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.0
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.3
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.5
-lookback period is 15
+lookback period is 10
 holding period is 250
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 1
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 5
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 10
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 20
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 50
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 100
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is -1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.0
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.3
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
 trigger is 1.5
-lookback period is 20
+lookback period is 15
 holding period is 250
+trigger is 1.5
+lookback period is 20
+holding period is 1
+trigger is -1.5
+lookback period is 20
+holding period is 1
+trigger is -1.5
+lookback period is 20
+holding period is 1
+trigger is -1.5
+lookback period is 20
+holding period is 1
+trigger is -1.5
+lookback period is 20
+holding period is 1
+trigger is -1.5
+lookback period is 20
+holding period is 1
+trigger is -1.3
+lookback period is 20
+holding period is 1
+trigger is -1.3
+lookback period is 20
+holding period is 1
+trigger is -1.3
+lookback period is 20
+holding period is 1
+trigger is -1.3
+lookback period is 20
+holding period is 1
+trigger is -1.3
+lookback period is 20
+holding period is 1
+trigger is -1.0
+lookback period is 20
+holding period is 1
+trigger is -1.0
+lookback period is 20
+holding period is 1
+trigger is -1.0
+lookback period is 20
+holding period is 1
+trigger is -1.0
+lookback period is 20
+holding period is 1
+trigger is -1.0
+lookback period is 20
+holding period is 1
+trigger is 0
+lookback period is 20
+holding period is 1
+trigger is 0
+lookback period is 20
+holding period is 1
+trigger is 0
+lookback period is 20
+holding period is 1
+trigger is 0
+lookback period is 20
+holding period is 1
+trigger is 0
+lookback period is 20
+holding period is 1
+trigger is 1.0
+lookback period is 20
+holding period is 1
+trigger is 1.0
+lookback period is 20
+holding period is 1
+trigger is 1.0
+lookback period is 20
+holding period is 1
+trigger is 1.0
+lookback period is 20
+holding period is 1
+trigger is 1.0
+lookback period is 20
+holding period is 1
+trigger is 1.3
+lookback period is 20
+holding period is 1
+trigger is 1.3
+lookback period is 20
+holding period is 1
+trigger is 1.3
+lookback period is 20
+holding period is 1
+trigger is 1.3
+lookback period is 20
+holding period is 1
+trigger is 1.3
+lookback period is 20
+holding period is 1
+trigger is 1.5
+lookback period is 20
+holding period is 1
+trigger is 1.5
+lookback period is 20
+holding period is 1
+trigger is 1.5
+lookback period is 20
+holding period is 1
+trigger is 1.5
+lookback period is 20
+holding period is 1
 trigger is 1.5
+lookback period is 20
+holding period is 5
+trigger is -1.5
+lookback period is 20
+holding period is 5
+trigger is -1.5
+lookback period is 20
+holding period is 5
+trigger is -1.5
+lookback period is 20
+holding period is 5
+trigger is -1.5
+lookback period is 20
+holding period is 5
+trigger is -1.5
+lookback period is 20
+holding period is 5
+trigger is -1.3
+lookback period is 20
+holding period is 5
+trigger is -1.3
+lookback period is 20
+holding period is 5
+trigger is -1.3
+lookback period is 20
+holding period is 5
+trigger is -1.3
+lookback period is 20
+holding period is 5
+trigger is -1.3
+lookback period is 20
+holding period is 5
+trigger is -1.0
+lookback period is 20
+holding period is 5
+trigger is -1.0
+lookback period is 20
+holding period is 5
+trigger is -1.0
+lookback period is 20
+holding period is 5
+trigger is -1.0
+lookback period is 20
+holding period is 5
+trigger is -1.0
+lookback period is 20
+holding period is 5
+trigger is 0
+lookback period is 20
+holding period is 5
+trigger is 0
+lookback period is 20
+holding period is 5
+trigger is 0
+lookback period is 20
+holding period is 5
+trigger is 0
+lookback period is 20
+holding period is 5
+trigger is 0
+lookback period is 20
+holding period is 5
+trigger is 1.0
+lookback period is 20
+holding period is 5
+trigger is 1.0
+lookback period is 20
+holding period is 5
+trigger is 1.0
+lookback period is 20
+holding period is 5
+trigger is 1.0
+lookback period is 20
+holding period is 5
+trigger is 1.0
+lookback period is 20
+holding period is 5
+trigger is 1.3
+lookback period is 20
+holding period is 5
+trigger is 1.3
+lookback period is 20
+holding period is 5
+trigger is 1.3
+lookback period is 20
+holding period is 5
+trigger is 1.3
+lookback period is 20
+holding period is 5
+trigger is 1.3
+lookback period is 20
+holding period is 5
+trigger is 1.5
+lookback period is 20
+holding period is 5
+trigger is 1.5
+lookback period is 20
+holding period is 5
+trigger is 1.5
+lookback period is 20
+holding period is 5
+trigger is 1.5
+lookback period is 20
+holding period is 5
+trigger is 1.5
+lookback period is 20
+holding period is 10
+trigger is -1.5
+lookback period is 20
+holding period is 10
+trigger is -1.5
+lookback period is 20
+holding period is 10
+trigger is -1.5
+lookback period is 20
+holding period is 10
+trigger is -1.5
+lookback period is 20
+holding period is 10
+trigger is -1.5
+lookback period is 20
+holding period is 10
+trigger is -1.3
+lookback period is 20
+holding period is 10
+trigger is -1.3
+lookback period is 20
+holding period is 10
+trigger is -1.3
+lookback period is 20
+holding period is 10
+trigger is -1.3
+lookback period is 20
+holding period is 10
+trigger is -1.3
+lookback period is 20
+holding period is 10
+trigger is -1.0
+lookback period is 20
+holding period is 10
+trigger is -1.0
+lookback period is 20
+holding period is 10
+trigger is -1.0
+lookback period is 20
+holding period is 10
+trigger is -1.0
+lookback period is 20
+holding period is 10
+trigger is -1.0
+lookback period is 20
+holding period is 10
+trigger is 0
+lookback period is 20
+holding period is 10
+trigger is 0
+lookback period is 20
+holding period is 10
+trigger is 0
+lookback period is 20
+holding period is 10
+trigger is 0
+lookback period is 20
+holding period is 10
+trigger is 0
+lookback period is 20
+holding period is 10
+trigger is 1.0
+lookback period is 20
+holding period is 10
+trigger is 1.0
+lookback period is 20
+holding period is 10
+trigger is 1.0
+lookback period is 20
+holding period is 10
+trigger is 1.0
+lookback period is 20
+holding period is 10
+trigger is 1.0
+lookback period is 20
+holding period is 10
+trigger is 1.3
+lookback period is 20
+holding period is 10
+trigger is 1.3
+lookback period is 20
+holding period is 10
+trigger is 1.3
+lookback period is 20
+holding period is 10
+trigger is 1.3
+lookback period is 20
+holding period is 10
+trigger is 1.3
+lookback period is 20
+holding period is 10
+trigger is 1.5
+lookback period is 20
+holding period is 10
+trigger is 1.5
+lookback period is 20
+holding period is 10
+trigger is 1.5
+lookback period is 20
+holding period is 10
+trigger is 1.5
+lookback period is 20
+holding period is 10
+trigger is 1.5
+lookback period is 20
+holding period is 20
+trigger is -1.5
+lookback period is 20
+holding period is 20
+trigger is -1.5
+lookback period is 20
+holding period is 20
+trigger is -1.5
+lookback period is 20
+holding period is 20
+trigger is -1.5
+lookback period is 20
+holding period is 20
+trigger is -1.5
+lookback period is 20
+holding period is 20
+trigger is -1.3
+lookback period is 20
+holding period is 20
+trigger is -1.3
+lookback period is 20
+holding period is 20
+trigger is -1.3
+lookback period is 20
+holding period is 20
+trigger is -1.3
+lookback period is 20
+holding period is 20
+trigger is -1.3
+lookback period is 20
+holding period is 20
+trigger is -1.0
+lookback period is 20
+holding period is 20
+trigger is -1.0
+lookback period is 20
+holding period is 20
+trigger is -1.0
+lookback period is 20
+holding period is 20
+trigger is -1.0
+lookback period is 20
+holding period is 20
+trigger is -1.0
+lookback period is 20
+holding period is 20
+trigger is 0
+lookback period is 20
+holding period is 20
+trigger is 0
+lookback period is 20
+holding period is 20
+trigger is 0
+lookback period is 20
+holding period is 20
+trigger is 0
+lookback period is 20
+holding period is 20
+trigger is 0
+lookback period is 20
+holding period is 20
+trigger is 1.0
+lookback period is 20
+holding period is 20
+trigger is 1.0
+lookback period is 20
+holding period is 20
+trigger is 1.0
+lookback period is 20
+holding period is 20
+trigger is 1.0
+lookback period is 20
+holding period is 20
+trigger is 1.0
+lookback period is 20
+holding period is 20
+trigger is 1.3
+lookback period is 20
+holding period is 20
+trigger is 1.3
+lookback period is 20
+holding period is 20
+trigger is 1.3
+lookback period is 20
+holding period is 20
+trigger is 1.3
+lookback period is 20
+holding period is 20
+trigger is 1.3
+lookback period is 20
+holding period is 20
+trigger is 1.5
+lookback period is 20
+holding period is 20
+trigger is 1.5
+lookback period is 20
+holding period is 20
+trigger is 1.5
+lookback period is 20
+holding period is 20
+trigger is 1.5
+lookback period is 20
+holding period is 20
+trigger is 1.5
+lookback period is 20
+holding period is 50
+trigger is -1.5
+lookback period is 20
+holding period is 50
+trigger is -1.5
+lookback period is 20
+holding period is 50
+trigger is -1.5
+lookback period is 20
+holding period is 50
+trigger is -1.5
+lookback period is 20
+holding period is 50
+trigger is -1.5
+lookback period is 20
+holding period is 50
+trigger is -1.3
+lookback period is 20
+holding period is 50
+trigger is -1.3
+lookback period is 20
+holding period is 50
+trigger is -1.3
+lookback period is 20
+holding period is 50
+trigger is -1.3
+lookback period is 20
+holding period is 50
+trigger is -1.3
+lookback period is 20
+holding period is 50
+trigger is -1.0
+lookback period is 20
+holding period is 50
+trigger is -1.0
+lookback period is 20
+holding period is 50
+trigger is -1.0
+lookback period is 20
+holding period is 50
+trigger is -1.0
+lookback period is 20
+holding period is 50
+trigger is -1.0
+lookback period is 20
+holding period is 50
+trigger is 0
+lookback period is 20
+holding period is 50
+trigger is 0
+lookback period is 20
+holding period is 50
+trigger is 0
+lookback period is 20
+holding period is 50
+trigger is 0
+lookback period is 20
+holding period is 50
+trigger is 0
+lookback period is 20
+holding period is 50
+trigger is 1.0
+lookback period is 20
+holding period is 50
+trigger is 1.0
+lookback period is 20
+holding period is 50
+trigger is 1.0
+lookback period is 20
+holding period is 50
+trigger is 1.0
+lookback period is 20
+holding period is 50
+trigger is 1.0
+lookback period is 20
+holding period is 50
+trigger is 1.3
+lookback period is 20
+holding period is 50
+trigger is 1.3
+lookback period is 20
+holding period is 50
+trigger is 1.3
+lookback period is 20
+holding period is 50
+trigger is 1.3
+lookback period is 20
+holding period is 50
+trigger is 1.3
+lookback period is 20
+holding period is 50
+trigger is 1.5
+lookback period is 20
+holding period is 50
+trigger is 1.5
+lookback period is 20
+holding period is 50
+trigger is 1.5
+lookback period is 20
+holding period is 50
+trigger is 1.5
+lookback period is 20
+holding period is 50
+trigger is 1.5
+lookback period is 20
+holding period is 100
+trigger is -1.5
+lookback period is 20
+holding period is 100
+trigger is -1.5
+lookback period is 20
+holding period is 100
+trigger is -1.5
+lookback period is 20
+holding period is 100
+trigger is -1.5
+lookback period is 20
+holding period is 100
+trigger is -1.5
+lookback period is 20
+holding period is 100
+trigger is -1.3
+lookback period is 20
+holding period is 100
+trigger is -1.3
+lookback period is 20
+holding period is 100
+trigger is -1.3
+lookback period is 20
+holding period is 100
+trigger is -1.3
+lookback period is 20
+holding period is 100
+trigger is -1.3
+lookback period is 20
+holding period is 100
+trigger is -1.0
+lookback period is 20
+holding period is 100
+trigger is -1.0
+lookback period is 20
+holding period is 100
+trigger is -1.0
+lookback period is 20
+holding period is 100
+trigger is -1.0
+lookback period is 20
+holding period is 100
+trigger is -1.0
+lookback period is 20
+holding period is 100
+trigger is 0
+lookback period is 20
+holding period is 100
+trigger is 0
+lookback period is 20
+holding period is 100
+trigger is 0
+lookback period is 20
+holding period is 100
+trigger is 0
+lookback period is 20
+holding period is 100
+trigger is 0
+lookback period is 20
+holding period is 100
+trigger is 1.0
+lookback period is 20
+holding period is 100
+trigger is 1.0
+lookback period is 20
+holding period is 100
+trigger is 1.0
+lookback period is 20
+holding period is 100
+trigger is 1.0
+lookback period is 20
+holding period is 100
+trigger is 1.0
+lookback period is 20
+holding period is 100
+trigger is 1.3
+lookback period is 20
+holding period is 100
+trigger is 1.3
+lookback period is 20
+holding period is 100
+trigger is 1.3
+lookback period is 20
+holding period is 100
+trigger is 1.3
+lookback period is 20
+holding period is 100
+trigger is 1.3
+lookback period is 20
+holding period is 100
+trigger is 1.5
+lookback period is 20
+holding period is 100
+trigger is 1.5
+lookback period is 20
+holding period is 100
+trigger is 1.5
+lookback period is 20
+holding period is 100
+trigger is 1.5
+lookback period is 20
+holding period is 100
+trigger is 1.5
+lookback period is 20
+holding period is 250
+trigger is -1.5
+lookback period is 20
+holding period is 250
+trigger is -1.5
+lookback period is 20
+holding period is 250
+trigger is -1.5
+lookback period is 20
+holding period is 250
+trigger is -1.5
+lookback period is 20
+holding period is 250
+trigger is -1.5
+lookback period is 20
+holding period is 250
+trigger is -1.3
+lookback period is 20
+holding period is 250
+trigger is -1.3
+lookback period is 20
+holding period is 250
+trigger is -1.3
+lookback period is 20
+holding period is 250
+trigger is -1.3
+lookback period is 20
+holding period is 250
+trigger is -1.3
+lookback period is 20
+holding period is 250
+trigger is -1.0
+lookback period is 20
+holding period is 250
+trigger is -1.0
+lookback period is 20
+holding period is 250
+trigger is -1.0
+lookback period is 20
+holding period is 250
+trigger is -1.0
+lookback period is 20
+holding period is 250
+trigger is -1.0
+lookback period is 20
+holding period is 250
+trigger is 0
+lookback period is 20
+holding period is 250
+trigger is 0
+lookback period is 20
+holding period is 250
+trigger is 0
+lookback period is 20
+holding period is 250
+trigger is 0
+lookback period is 20
+holding period is 250
+trigger is 0
+lookback period is 20
+holding period is 250
+trigger is 1.0
+lookback period is 20
+holding period is 250
+trigger is 1.0
+lookback period is 20
+holding period is 250
+trigger is 1.0
+lookback period is 20
+holding period is 250
+trigger is 1.0
+lookback period is 20
+holding period is 250
+trigger is 1.0
+lookback period is 20
+holding period is 250
+trigger is 1.3
+lookback period is 20
+holding period is 250
+trigger is 1.3
+lookback period is 20
+holding period is 250
+trigger is 1.3
+lookback period is 20
+holding period is 250
+trigger is 1.3
+lookback period is 20
+holding period is 250
+trigger is 1.3
+lookback period is 20
+holding period is 250
+trigger is 1.5
+lookback period is 20
+holding period is 250
+trigger is 1.5
+lookback period is 20
+holding period is 250
+trigger is 1.5
+lookback period is 20
+holding period is 250
+trigger is 1.5
+lookback period is 20
+holding period is 250
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.3
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is -1.0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.0
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.3
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.5
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.3
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is -1.0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.0
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.3
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 20
+trigger is 1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.5
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.3
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is -1.0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.0
+lookback period is 10
+holding period is 50
+trigger is 1.3
+lookback period is 10
+holding period is 50
+trigger is 1.3
+lookback period is 10
+holding period is 50
+trigger is 1.3
+lookback period is 10
+holding period is 50
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.5
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.3
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is -1.0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.0
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.3
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 1
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.5
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.3
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is -1.0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.0
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.3
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 5
+trigger is 1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5
+lookback period is 10
+holding period is 10
+trigger is -1.5

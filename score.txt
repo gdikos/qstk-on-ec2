@@ -1,113 +1,1294 @@
-10 1 -1.5 -1.5 0.257556351298
-10 1 -1.0 -1 0.173391991956
-10 1 1.5 1 0.0682991490487
-10 5 -1.3 -1.5 0.440255533637
-10 5 -1.3 1 0.417398883931
-10 5 -1.3 1.5 0.596901135705
-10 5 -1.0 -1.5 0.324053070551
-10 5 -1.0 -1 0.225204698882
-10 5 -1.0 1 0.567043722806
-10 5 0 0 0.172093958116
-10 5 0 1 0.408406286004
-10 5 0 1.5 0.210701594555
-10 5 1.3 -1.5 0.0539331513843
-10 5 1.3 0 0.0398284608902
-10 5 1.3 1 0.120982278702
-10 10 -1.5 1 0.0930914126955
-10 10 -1.3 1.5 1.03064940606
-10 10 -1.0 -1 0.0417976583125
-10 10 0 0 0.101867807519
-10 10 0 1 1.02898799103
-10 10 0 1.5 0.566067083476
-10 10 1.3 -1.5 0.0210841908952
-10 10 1.3 0 0.000226980022659
-10 10 1.3 1 0.0269415522582
-10 20 0 -1.5 0.220042486999
-10 20 0 -1 0.108373681713
-10 50 -1.5 1 0.592313676691
-10 50 -1.5 1.5 0.380687868793
-10 50 -1.3 -1.5 0.315990917809
-10 50 -1.3 1.5 0.307207043119
-10 50 -1.0 -1.5 0.313644029957
-10 50 -1.0 1.5 0.210439082423
-10 100 -1.5 1 0.857539205693
-10 100 -1.5 1.5 0.639945339625
-10 100 -1.3 -1.5 0.0771552198738
-10 100 -1.3 1 0.277686026444
-10 100 -1.3 1.5 0.548921984494
-10 100 -1.0 1.5 0.621626477562
-10 100 1.3 0 0.00535560553447
-10 250 -1.5 1 0.201953675444
-10 250 -1.5 1.5 0.106506868014
-10 250 -1.3 -1.5 0.172364692004
-10 250 -1.3 1.5 0.140500002859
-10 250 -1.0 -1.5 0.159933661575
-10 250 -1.0 1.5 0.213101113563
-10 250 0 1.5 0.000626248422215
-10 250 1.3 -1.5 0.569324520107
-10 250 1.3 -1 0.560741014301
-10 250 1.3 0 0.572164636245
-10 250 1.3 1 0.120925450765
-10 250 1.5 -1.5 0.412846619036
-10 250 1.5 -1 0.410864402808
-10 250 1.5 0 0.478162122179
-10 250 1.5 1 0.0631451271865
-15 1 -1.5 -1 0.131559627679
-15 1 -1.3 -1 0.39959412261
-15 1 -1.0 1 0.384548592578
-15 5 -1.5 -1 0.318336802178
-15 5 -1.3 -1 0.34699192412
-15 5 -1.3 0 0.154246640851
-15 5 -1.0 -1 0.161246965213
-15 5 -1.0 1 0.286629973725
-15 5 -1.0 1.5 0.100949034925
-15 5 0 1.5 0.237461707545
-15 10 0 1 0.275044116695
-15 10 0 1.5 0.547952885947
-15 10 1.3 1 0.148885490649
-15 20 0 -1 0.128942674621
-15 50 -1.3 -1.5 0.174326122739
-15 50 -1.0 1.5 0.313859034755
-15 50 0 1.5 0.207879075932
-15 100 -1.5 1 0.00778711059357
-15 100 -1.5 1.5 0.0441987792467
-15 100 -1.3 -1.5 0.184934663106
-15 100 -1.3 1.5 0.19575382844
-15 100 -1.0 1.5 0.478102096811
-15 100 0 1.5 0.283053710102
-15 250 -1.5 1.5 0.189929999558
-15 250 -1.3 1.5 0.22188307959
-15 250 -1.0 -1.5 0.0634075498618
-15 250 -1.0 1.5 0.194518786598
-15 250 0 1.5 1.29772680293e-05
-15 250 1.0 -1.5 0.292781075717
-15 250 1.0 -1 0.287514387296
-15 250 1.0 0 0.299540768648
-15 250 1.3 -1.5 0.450751611424
-15 250 1.3 -1 0.450634363497
-15 250 1.3 0 0.444877342957
-15 250 1.5 -1.5 0.212868589281
-15 250 1.5 -1 0.212577619716
-15 250 1.5 0 0.211240356453
-20 1 -1.3 0 0.0515043004037
-20 5 -1.5 -1 0.182087938312
-20 5 -1.3 -1 0.0124497508021
-20 5 -1.0 1 0.0310612083334
-20 20 0 0 0.02583357059
-20 50 0 -1.5 0.151459899739
-20 50 0 -1 0.207167256862
-20 100 -1.5 1.5 0.19575382844
-20 100 -1.3 1.5 0.19575382844
-20 100 -1.0 1.5 0.239063770981
-20 250 -1.5 1.5 0.22188307959
-20 250 -1.3 1.5 0.22188307959
-20 250 -1.0 -1.5 0.0482276483527
-20 250 -1.0 1.5 0.313735877454
-20 250 1.0 -1.5 0.0291170887598
-20 250 1.3 -1.5 0.147985050391
-20 250 1.3 -1 0.146260385678
-20 250 1.3 0 0.143924094581
-20 250 1.3 1.5 0.0530472972064
-20 250 1.5 -1.5 0.102421176299
-20 250 1.5 -1 0.10053293065
-20 250 1.5 0 0.0996083543297
+we have a winner:
+10 1 -1.5 -1.5 -1 -1 0.687193120143
+this is a looser
+this is a looser
+start bollinger_events.py
+50
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 -1.5 -1 -1 0.687193120143
+start bollinger_events.py
+223
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+359
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+185
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 -1.5 1 1 0.729347702022
+start bollinger_events.py
+244
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+328
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+165
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+80
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 -1 1 1 0.457595891445
+start bollinger_events.py
+361
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+372
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+48
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+36
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 0 1 1 0.192489265659
+start bollinger_events.py
+387
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+400
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+22
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 1 1 -1 0.252743490476
+start bollinger_events.py
+8
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 1 1 1 0.8078393149
+start bollinger_events.py
+398
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+405
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+11
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 1.5 1 -1 0.0622708170305
+start bollinger_events.py
+3
+end bollinger_events.py
+we have a winner:
+10 1 -1.5 1.5 1 1 1.04787538263
+start bollinger_events.py
+42
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 -1.5 -1 -1 0.239475548588
+start bollinger_events.py
+213
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+438
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 -1.5 1 -1 0.305337843618
+start bollinger_events.py
+266
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+222
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 -1 -1 -1 0.254028546924
+start bollinger_events.py
+354
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+258
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+125
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 -1 1 1 0.481451567311
+start bollinger_events.py
+407
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 0 -1 -1 0.241139321126
+start bollinger_events.py
+427
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+73
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 0 1 -1 0.533983094839
+start bollinger_events.py
+52
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 0 1 1 0.263370705125
+start bollinger_events.py
+446
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 1 -1 -1 0.28616816227
+start bollinger_events.py
+466
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+34
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 1 1 -1 0.402697852863
+start bollinger_events.py
+13
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 1 1 1 1.12358097056
+start bollinger_events.py
+466
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 1.5 -1 -1 0.288390216301
+start bollinger_events.py
+476
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+14
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 1.5 1 -1 0.673333763771
+start bollinger_events.py
+3
+end bollinger_events.py
+we have a winner:
+10 1 -1.3 1.5 1 1 1.04787538263
+start bollinger_events.py
+29
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+196
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+527
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 -1.5 1 -1 0.444663498842
+start bollinger_events.py
+361
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+165
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+367
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+391
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 -1 1 -1 0.513547549684
+start bollinger_events.py
+190
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 -1 1 1 0.257773989939
+start bollinger_events.py
+419
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 0 -1 -1 0.396453653501
+start bollinger_events.py
+478
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+137
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+79
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 0 1 1 0.783777411871
+start bollinger_events.py
+487
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 1 -1 -1 0.418432888725
+start bollinger_events.py
+539
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+69
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+18
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 1 1 1 0.945889822703
+start bollinger_events.py
+527
+end bollinger_events.py
+we have a winner:
+10 1 -1.0 1.5 -1 -1 0.404884110952
+start bollinger_events.py
+553
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+29
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+4
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+8
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+87
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+518
+end bollinger_events.py
+we have a winner:
+10 1 0 -1.5 1 -1 1.17976245175
+start bollinger_events.py
+446
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+49
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+169
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+477
+end bollinger_events.py
+we have a winner:
+10 1 0 -1 1 -1 1.20689775099
+start bollinger_events.py
+364
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+199
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+339
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+327
+end bollinger_events.py
+we have a winner:
+10 1 0 0 1 -1 1.20542460329
+start bollinger_events.py
+194
+end bollinger_events.py
+we have a winner:
+10 1 0 0 1 1 0.154539866273
+start bollinger_events.py
+359
+end bollinger_events.py
+we have a winner:
+10 1 0 1 -1 -1 0.743547391641
+start bollinger_events.py
+487
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+167
+end bollinger_events.py
+we have a winner:
+10 1 0 1 1 -1 0.465580413843
+start bollinger_events.py
+46
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+437
+end bollinger_events.py
+we have a winner:
+10 1 0 1.5 -1 -1 1.0543792379
+start bollinger_events.py
+524
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+89
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+9
+end bollinger_events.py
+we have a winner:
+10 1 0 1.5 1 1 0.0809284344399
+start bollinger_events.py
+6
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+24
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+526
+end bollinger_events.py
+we have a winner:
+10 1 1.0 -1.5 1 -1 0.490837550565
+start bollinger_events.py
+507
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+22
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+60
+end bollinger_events.py
+we have a winner:
+10 1 1.0 -1 -1 1 0.0653384334892
+start bollinger_events.py
+510
+end bollinger_events.py
+we have a winner:
+10 1 1.0 -1 1 -1 0.466570818226
+start bollinger_events.py
+471
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+70
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+144
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+462
+end bollinger_events.py
+we have a winner:
+10 1 1.0 0 1 -1 0.454148754936
+start bollinger_events.py
+387
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+209
+end bollinger_events.py
+we have a winner:
+10 1 1.0 1 -1 -1 0.144535806943
+start bollinger_events.py
+378
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+323
+end bollinger_events.py
+we have a winner:
+10 1 1.0 1 1 -1 0.110375565529
+start bollinger_events.py
+153
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+356
+end bollinger_events.py
+we have a winner:
+10 1 1.0 1.5 -1 -1 0.283574212057
+start bollinger_events.py
+503
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+176
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+28
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+3
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+13
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+452
+end bollinger_events.py
+we have a winner:
+10 1 1.3 -1.5 1 -1 0.964825802823
+start bollinger_events.py
+441
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+14
+end bollinger_events.py
+we have a winner:
+10 1 1.3 -1 -1 -1 0.509669080194
+start bollinger_events.py
+28
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+441
+end bollinger_events.py
+we have a winner:
+10 1 1.3 -1 1 -1 0.931139945867
+start bollinger_events.py
+426
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+41
+end bollinger_events.py
+we have a winner:
+10 1 1.3 0 -1 -1 0.0492084745088
+start bollinger_events.py
+80
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+414
+end bollinger_events.py
+we have a winner:
+10 1 1.3 0 1 -1 0.919952518286
+start bollinger_events.py
+374
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+136
+end bollinger_events.py
+we have a winner:
+10 1 1.3 1 -1 -1 0.136726908989
+start bollinger_events.py
+249
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+319
+end bollinger_events.py
+we have a winner:
+10 1 1.3 1 1 -1 0.625704829488
+start bollinger_events.py
+205
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+267
+end bollinger_events.py
+we have a winner:
+10 1 1.3 1.5 -1 -1 0.654478056953
+start bollinger_events.py
+409
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+188
+end bollinger_events.py
+we have a winner:
+10 1 1.3 1.5 1 -1 0.205208572795
+start bollinger_events.py
+45
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+1
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+8
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+386
+end bollinger_events.py
+we have a winner:
+10 1 1.5 -1.5 1 -1 0.758515476811
+start bollinger_events.py
+378
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+9
+end bollinger_events.py
+we have a winner:
+10 1 1.5 -1 -1 -1 0.595615871193
+start bollinger_events.py
+18
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+378
+end bollinger_events.py
+we have a winner:
+10 1 1.5 -1 1 -1 0.743766599749
+start bollinger_events.py
+368
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+30
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+43
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+357
+end bollinger_events.py
+we have a winner:
+10 1 1.5 0 1 -1 0.6826404004
+start bollinger_events.py
+343
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+99
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+167
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+288
+end bollinger_events.py
+we have a winner:
+10 1 1.5 1 1 -1 0.426833340566
+start bollinger_events.py
+219
+end bollinger_events.py
+we have a winner:
+10 1 1.5 1 1 1 0.0607643954814
+start bollinger_events.py
+185
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+329
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+202
+end bollinger_events.py
+we have a winner:
+10 1 1.5 1.5 1 -1 0.422931114382
+start bollinger_events.py
+57
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+50
+end bollinger_events.py
+we have a winner:
+10 5 -1.5 -1.5 -1 -1 0.970032075973
+start bollinger_events.py
+223
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+359
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+185
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+244
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+328
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+165
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+80
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+361
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+372
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+48
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+36
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+387
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+400
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+22
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+8
+end bollinger_events.py
+we have a winner:
+10 5 -1.5 1 1 1 0.667327928227
+start bollinger_events.py
+398
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+405
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+11
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+3
+end bollinger_events.py
+we have a winner:
+10 5 -1.5 1.5 1 1 0.432216814222
+start bollinger_events.py
+42
+end bollinger_events.py
+we have a winner:
+10 5 -1.3 -1.5 -1 -1 0.31478465812
+start bollinger_events.py
+213
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+438
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+266
+end bollinger_events.py
+we have a winner:
+10 5 -1.3 -1.5 1 1 0.176389407832
+start bollinger_events.py
+222
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+354
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+258
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+125
+end bollinger_events.py
+we have a winner:
+10 5 -1.3 -1 1 1 0.445597155934
+start bollinger_events.py
+407
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+427
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+73
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+52
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+446
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+466
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+34
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+13
+end bollinger_events.py
+we have a winner:
+10 5 -1.3 1 1 1 1.33154884524
+start bollinger_events.py
+466
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+476
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+14
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+3
+end bollinger_events.py
+we have a winner:
+10 5 -1.3 1.5 1 1 0.432216814222
+start bollinger_events.py
+29
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+196
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+527
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+361
+end bollinger_events.py
+we have a winner:
+10 5 -1.0 -1.5 1 1 0.170438799304
+start bollinger_events.py
+165
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+367
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+391
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+190
+end bollinger_events.py
+we have a winner:
+10 5 -1.0 -1 1 1 0.148329956614
+start bollinger_events.py
+419
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+478
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+137
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+79
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+487
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+539
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+69
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+18
+end bollinger_events.py
+we have a winner:
+10 5 -1.0 1 1 1 0.0987742255964
+start bollinger_events.py
+527
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+553
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+29
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+4
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+8
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+87
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+518
+end bollinger_events.py
+we have a winner:
+10 5 0 -1.5 1 -1 0.328451312574
+start bollinger_events.py
+446
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+49
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+169
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+477
+end bollinger_events.py
+we have a winner:
+10 5 0 -1 1 -1 0.348394239078
+start bollinger_events.py
+364
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+199
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+339
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+327
+end bollinger_events.py
+we have a winner:
+10 5 0 0 1 -1 0.455173105576
+start bollinger_events.py
+194
+end bollinger_events.py
+we have a winner:
+10 5 0 0 1 1 0.580145626431
+start bollinger_events.py
+359
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+487
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+167
+end bollinger_events.py
+we have a winner:
+10 5 0 1 1 -1 0.839823725008
+start bollinger_events.py
+46
+end bollinger_events.py
+we have a winner:
+10 5 0 1 1 1 0.801576999606
+start bollinger_events.py
+437
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+524
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+89
+end bollinger_events.py
+we have a winner:
+10 5 0 1.5 1 -1 0.240780206099
+start bollinger_events.py
+9
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+6
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+24
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+526
+end bollinger_events.py
+we have a winner:
+10 5 1.0 -1.5 1 -1 0.397311129017
+start bollinger_events.py
+507
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+22
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+60
+end bollinger_events.py
+we have a winner:
+10 5 1.0 -1 -1 1 0.632386755997
+start bollinger_events.py
+510
+end bollinger_events.py
+we have a winner:
+10 5 1.0 -1 1 -1 0.383121322984
+start bollinger_events.py
+471
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+70
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+144
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+462
+end bollinger_events.py
+we have a winner:
+10 5 1.0 0 1 -1 0.440223501471
+start bollinger_events.py
+387
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+209
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+378
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+323
+end bollinger_events.py
+we have a winner:
+10 5 1.0 1 1 -1 0.141835190648
+start bollinger_events.py
+153
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+356
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+503
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+176
+end bollinger_events.py
+we have a winner:
+10 5 1.0 1.5 1 -1 0.344918456657
+start bollinger_events.py
+28
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+3
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+13
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+452
+end bollinger_events.py
+we have a winner:
+10 5 1.3 -1.5 1 -1 1.13636150077
+start bollinger_events.py
+441
+end bollinger_events.py
+we have a winner:
+10 5 1.3 -1.5 1 1 0.181023245493
+start bollinger_events.py
+14
+end bollinger_events.py
+we have a winner:
+10 5 1.3 -1 -1 -1 0.352134043735
+start bollinger_events.py
+28
+end bollinger_events.py
+we have a winner:
+10 5 1.3 -1 -1 1 0.571485535769
+start bollinger_events.py
+441
+end bollinger_events.py
+we have a winner:
+10 5 1.3 -1 1 -1 1.11649801298
+start bollinger_events.py
+426
+end bollinger_events.py
+we have a winner:
+10 5 1.3 -1 1 1 0.101311616883
+start bollinger_events.py
+41
+end bollinger_events.py
+we have a winner:
+10 5 1.3 0 -1 -1 0.0989772175631
+start bollinger_events.py
+80
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+414
+end bollinger_events.py
+we have a winner:
+10 5 1.3 0 1 -1 1.15990743626
+start bollinger_events.py
+374
+end bollinger_events.py
+we have a winner:
+10 5 1.3 0 1 1 0.297517157085
+start bollinger_events.py
+136
+end bollinger_events.py
+we have a winner:
+10 5 1.3 1 -1 -1 0.307672248532
+start bollinger_events.py
+249
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+319
+end bollinger_events.py
+we have a winner:
+10 5 1.3 1 1 -1 0.861445831848
+start bollinger_events.py
+205
+end bollinger_events.py
+we have a winner:
+10 5 1.3 1 1 1 0.119442019004
+start bollinger_events.py
+267
+end bollinger_events.py
+we have a winner:
+10 5 1.3 1.5 -1 -1 0.656907715938
+start bollinger_events.py
+409
+end bollinger_events.py
+we have a winner:
+10 5 1.3 1.5 -1 1 0.225088340309
+start bollinger_events.py
+188
+end bollinger_events.py
+we have a winner:
+10 5 1.3 1.5 1 -1 0.628220613604
+start bollinger_events.py
+45
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+1
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+8
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+386
+end bollinger_events.py
+we have a winner:
+10 5 1.5 -1.5 1 -1 0.0683405020753
+start bollinger_events.py
+378
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+9
+end bollinger_events.py
+we have a winner:
+10 5 1.5 -1 -1 -1 1.11455185241
+start bollinger_events.py
+18
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+378
+end bollinger_events.py
+we have a winner:
+10 5 1.5 -1 1 -1 0.0495236981675
+start bollinger_events.py
+368
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+30
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+43
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+357
+end bollinger_events.py
+we have a winner:
+10 5 1.5 0 1 -1 0.117271453668
+start bollinger_events.py
+343
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+99
+end bollinger_events.py
+we have a winner:
+10 5 1.5 1 -1 -1 0.0600306305189
+start bollinger_events.py
+167
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+288
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+219
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+185
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+329
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+202
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+57
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+50
+end bollinger_events.py
+we have a winner:
+10 10 -1.5 -1.5 -1 -1 1.06411522352
+start bollinger_events.py
+223
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+359
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+185
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+244
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+328
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+165
+end bollinger_events.py
+we have a winner:
+10 10 -1.5 -1 1 -1 0.137155610073
+start bollinger_events.py
+80
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+361
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+372
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+48
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+36
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+387
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+400
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+22
+end bollinger_events.py
+this is a looser
+start bollinger_events.py
+8
+end bollinger_events.py
+this is a looser

@@ -70,6 +70,8 @@ if __name__ == '__main__':
     holding=sys.argv[2]
     trigger=sys.argv[3]
     market=sys.argv[4] 
+    switch = sys.argv[5]
+    switch2=sys.argv[6]
     s_file_path = "data\\q1_values.csv"
     ls_symbols = ["FTSE.AT"]
     df_values_list = get_values_list(s_file_path)
@@ -82,6 +84,9 @@ if __name__ == '__main__':
     # print df_result
     score= df_result.ix["sharpe_ratio","val"]-df_result.ix["sharpe_ratio","FTSE.AT"]
     if (score >0):
-	print lookback, holding, trigger, market, score 
+        print "we have a winner:"
+	print lookback, holding, trigger, market, switch,switch2,score 
+    else:
+	print "this is a looser"
     # print df_result.ix["sharpe_ratio","val"]-df_result.ix["sharpe_ratio","FTSE.AT"]   
     # print "end analize.py"
