@@ -80,13 +80,28 @@ if __name__ == '__main__':
     df_data = df_values.join(df_prices)
     get_performance_indicators(df_data)
     # print
+    # df_result=get_performance_indicators(df_data)
+    # print df_result
+    #score= df_result.ix["sharpe_ratio","val"]-df_result.ix["sharpe_ratio","FTSE.AT"]
+    #if (score >0):
+    #    print "we have a winner:"
+	#print lookback, holding, trigger, market, switch,switch2,score 
+    #else:
+	#print "this is a looser"
+    # print df_result.ix["sharpe_ratio","val"]-df_result.ix["sharpe_ratio","FTSE.AT"]   
+    # print "end analize.py"
+    # print
     df_result=get_performance_indicators(df_data)
     # print df_result
     score= df_result.ix["sharpe_ratio","val"]-df_result.ix["sharpe_ratio","FTSE.AT"]
-    if (score >0):
-        print "we have a winner:"
-	print lookback, holding, trigger, market, switch,switch2,score 
-    else:
-	print "this is a looser"
+#  
+    delta= df_result.ix["total_ret","val"]-df_result.ix["total_ret","FTSE.AT"]
+
+#   if (score >0):
+#        print "we have a winner:"
+    print lookback, holding, trigger, market, switch,switch2,score,delta
+#    else:
+#       print "this is a looser"
     # print df_result.ix["sharpe_ratio","val"]-df_result.ix["sharpe_ratio","FTSE.AT"]   
     # print "end analize.py"
+                               

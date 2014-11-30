@@ -85,7 +85,7 @@ def save_orders(df_orders, s_out_file_path):
     df_orders.to_csv(s_out_file_path, sep=",", header=False, index=False)
     
 if __name__ == '__main__':
-    print "start bollinger_events.py"
+#    print "start bollinger_events.py"
 
     s_list_index = "ase"
     s_index ="FTSE.AT" 
@@ -126,4 +126,4 @@ if __name__ == '__main__':
     df_orders = generate_orders(df_bollinger_events, i_num, delta_t)
     save_orders(df_orders, s_orders_file_path)
     print count 
-    print "end bollinger_events.py"
+#    print "end bollinger_events.py"

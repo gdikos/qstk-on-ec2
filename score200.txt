@@ -4078,19 +4078,3 @@ this is a looser
 start bollinger_events.py
 28
 end bollinger_events.py
-we have a winner:
-10 1 -1.5 -1.5 -1 -1 0.687193120143
-this is a looser
-we have a winner:
-10 1 -1.5 -1.5 -1 -1 0.687193120143
-this is a looser
-we have a winner:
-10 1 -1.5 -1.5 -1 -1 0.687193120143
-this is a looser
-we have a winner:
-10 1 -1.5 -1.5 -1 -1 0.687193120143
-this is a looser
-we have a winner:
-10 1 -1.5 -1.5 -1 -1 0.687193120143
-this is a looser
-this is a looser
