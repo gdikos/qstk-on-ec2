@@ -20,15 +20,15 @@ do
     echo "holding period is" $holding_period 
     echo "trigger is" $trigger
     echo "market band is" $market
-if [ "$COUNTER" -gt "1252" ]
-then echo "counter is" $COUNTER >> buffer2.txt 
-    sudo python bollinger_events.py $i $holding_period $trigger $market $bin $switch >> buffer2.txt 
+if [ "$COUNTER" -gt "1621" ]
+then echo "counter is" $COUNTER >> buffer4.txt 
+    sudo python bollinger_events.py $i $holding_period $trigger $market $bin $switch >> buffer4.txt 
 #   sudo python bollinger_events.py $i $holding_period $trigger $market $bin $switch >> score.txt
 
     sudo python market_sim.py
 #   sudo python analyzer.py $i $holding_period $trigger $market $bin $switch
-    echo "counter is" $COUNTER >> searchrank2.txt
-    sudo python analyzer.py $i $holding_period $trigger $market $bin $switch >> searchrank2.txt 
+    echo "counter is" $COUNTER >> searchrank4.txt
+    sudo python analyzer.py $i $holding_period $trigger $market $bin $switch >> searchrank4.txt 
 fi
 COUNTER=$((COUNTER+1))
 echo $COUNTER
