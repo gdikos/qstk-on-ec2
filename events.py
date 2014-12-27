@@ -87,7 +87,7 @@ def save_orders(df_orders, s_out_file_path):
 if __name__ == '__main__':
 #    print "start bollinger_events.py"
 
-    s_list_index = "hf2" 
+    s_list_index = "hf15" 
     s_index = "IXIC"
     s_lookback = sys.argv[1]
     s_delta_t = sys.argv[2]
@@ -99,10 +99,10 @@ if __name__ == '__main__':
     s_start = "2012-09-01"
     s_end = "2014-12-04"
     
-    s_bollingers_file_path = "data\\q1_bollinger" + ".csv"
-    s_events_file_path = "data\\q1_bollinger_events" + ".csv"
-    s_events_img_path = "data\\q1_bollinger_events" + ".pdf"
-    s_orders_file_path = "data\\q1_orders" + ".csv"
+    s_bollingers_file_path = "data\\q2_bollinger" + ".csv"
+    s_events_file_path = "data\\q2_bollinger_events" + ".csv"
+    s_events_img_path = "data\\q2_bollinger_events" + ".pdf"
+    s_orders_file_path = "data\\q2_orders" + ".csv"
     trigger=float(trigger) 
     market=float(market) 
     switch=float(switch)

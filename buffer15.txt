@@ -1,0 +1,558 @@
+counter is 36
+1198
+counter is 37
+1260
+counter is 38
+141
+counter is 39
+79
+counter is 40
+85
+counter is 41
+361
+counter is 42
+1431
+counter is 43
+1158
+counter is 44
+241
+counter is 45
+576
+counter is 46
+1275
+counter is 47
+943
+counter is 48
+687
+counter is 49
+895
+counter is 50
+829
+counter is 51
+624
+counter is 52
+1126
+counter is 53
+1230
+counter is 54
+390
+counter is 55
+289
+counter is 56
+1352
+counter is 57
+1428
+counter is 58
+164
+counter is 59
+91
+counter is 60
+52
+counter is 61
+283
+counter is 62
+1579
+counter is 63
+1351
+counter is 64
+139
+counter is 65
+423
+counter is 66
+1492
+counter is 67
+1211
+counter is 68
+411
+counter is 69
+824
+counter is 70
+1220
+counter is 71
+810
+counter is 72
+1004
+counter is 73
+1213
+counter is 74
+627
+counter is 75
+421
+counter is 76
+1364
+counter is 77
+1510
+counter is 78
+267
+counter is 79
+124
+counter is 80
+50
+counter is 81
+169
+counter is 82
+1709
+counter is 83
+1587
+counter is 84
+111
+counter is 85
+282
+counter is 86
+1648
+counter is 87
+1474
+counter is 88
+305
+counter is 89
+557
+counter is 90
+1454
+counter is 91
+1199
+counter is 92
+843
+counter is 93
+1135
+counter is 94
+916
+counter is 95
+621
+counter is 96
+1349
+counter is 97
+1562
+counter is 98
+410
+counter is 99
+194
+counter is 100
+38
+counter is 101
+122
+counter is 102
+1550
+counter is 103
+1464
+counter is 104
+94
+counter is 105
+207
+counter is 106
+1494
+counter is 107
+1379
+counter is 108
+266
+counter is 109
+435
+counter is 110
+1322
+counter is 111
+1151
+counter is 112
+718
+counter is 113
+922
+counter is 114
+870
+counter is 115
+664
+counter is 116
+1178
+counter is 117
+1393
+counter is 118
+410
+counter is 119
+193
+counter is 120
+28
+counter is 121
+95
+counter is 122
+1355
+counter is 123
+1287
+counter is 124
+70
+counter is 125
+158
+counter is 126
+1313
+counter is 127
+1224
+counter is 128
+216
+counter is 129
+352
+counter is 130
+1167
+counter is 131
+1030
+counter is 132
+599
+counter is 133
+746
+counter is 134
+784
+counter is 135
+636
+counter is 136
+993
+counter is 137
+1191
+counter is 138
+390
+counter is 139
+191
+counter is 140
+96
+counter is 141
+328
+counter is 142
+1022
+counter is 143
+790
+counter is 144
+280
+counter is 145
+491
+counter is 146
+838
+counter is 147
+627
+counter is 148
+592
+counter is 149
+700
+counter is 150
+526
+counter is 151
+418
+counter is 152
+877
+counter is 153
+923
+counter is 154
+241
+counter is 155
+195
+counter is 156
+1021
+counter is 157
+1057
+counter is 158
+97
+counter is 159
+61
+counter is 160
+98
+counter is 161
+355
+counter is 162
+1241
+counter is 163
+984
+counter is 164
+286
+counter is 165
+548
+counter is 166
+1053
+counter is 167
+791
+counter is 168
+666
+counter is 169
+810
+counter is 170
+673
+counter is 171
+529
+counter is 172
+1039
+counter is 173
+1094
+counter is 174
+300
+counter is 175
+245
+counter is 176
+1198
+counter is 177
+1260
+counter is 178
+141
+counter is 179
+79
+counter is 180
+85
+counter is 181
+361
+counter is 182
+1431
+counter is 183
+1158
+counter is 184
+241
+counter is 185
+576
+counter is 186
+1275
+counter is 187
+943
+counter is 188
+687
+counter is 189
+895
+counter is 190
+829
+counter is 191
+624
+counter is 192
+1126
+counter is 193
+1230
+counter is 194
+390
+counter is 195
+289
+counter is 196
+1352
+counter is 197
+1428
+counter is 198
+164
+counter is 199
+91
+counter is 200
+52
+counter is 201
+283
+counter is 202
+1579
+counter is 203
+1351
+counter is 204
+139
+counter is 205
+423
+counter is 206
+1492
+counter is 207
+1211
+counter is 208
+411
+counter is 209
+824
+counter is 210
+1220
+counter is 211
+810
+counter is 212
+1004
+counter is 213
+1213
+counter is 214
+627
+counter is 215
+421
+counter is 216
+1364
+counter is 217
+1510
+counter is 218
+267
+counter is 219
+124
+counter is 220
+50
+counter is 221
+169
+counter is 222
+1709
+counter is 223
+1587
+counter is 224
+111
+counter is 225
+282
+counter is 226
+1648
+counter is 227
+1474
+counter is 228
+305
+counter is 229
+557
+counter is 230
+1454
+counter is 231
+1199
+counter is 232
+843
+counter is 233
+1135
+counter is 234
+916
+counter is 235
+621
+counter is 236
+1349
+counter is 237
+1562
+counter is 238
+410
+counter is 239
+194
+counter is 240
+38
+counter is 241
+122
+counter is 242
+1550
+counter is 243
+1464
+counter is 244
+94
+counter is 245
+207
+counter is 246
+1494
+counter is 247
+1379
+counter is 248
+266
+counter is 249
+435
+counter is 250
+1322
+counter is 251
+1151
+counter is 252
+718
+counter is 253
+922
+counter is 254
+870
+counter is 255
+664
+counter is 256
+1178
+counter is 257
+1393
+counter is 258
+410
+counter is 259
+193
+counter is 260
+28
+counter is 261
+95
+counter is 262
+1355
+counter is 263
+1287
+counter is 264
+70
+counter is 265
+158
+counter is 266
+1313
+counter is 267
+1224
+counter is 268
+216
+counter is 269
+352
+counter is 270
+1167
+counter is 271
+1030
+counter is 272
+599
+counter is 273
+746
+counter is 274
+784
+counter is 275
+636
+counter is 276
+993
+counter is 277
+1191
+counter is 278
+390
+counter is 279
+191
+counter is 280
+96
+counter is 281
+328
+counter is 282
+1022
+counter is 283
+790
+counter is 284
+280
+counter is 285
+491
+counter is 286
+838
+counter is 287
+627
+counter is 288
+592
+counter is 289
+700
+counter is 290
+526
+counter is 291
+418
+counter is 292
+877
+counter is 293
+923
+counter is 294
+241
+counter is 295
+195
+counter is 296
+1021
+counter is 297
+1057
+counter is 298
+97
+counter is 299
+61
+counter is 300
+98
+counter is 301
+355
+counter is 302
+1241
+counter is 303
+984
+counter is 304
+286
+counter is 305
+548
+counter is 306
+1053
+counter is 307
+791
+counter is 308
+666
+counter is 309
+810
+counter is 310
+673
+counter is 311
+529
+counter is 312
+1039
+counter is 313
+1094
+counter is 314
+300

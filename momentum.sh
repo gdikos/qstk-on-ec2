@@ -13,22 +13,22 @@ do
            do 
              for switch in -1 1
              do
-    echo "lookback period is" $i >> test2.txt   
-    echo "holding period is" $holding_period >> test2.txt 
-    echo "trigger is" $trigger >> test2.txt    
+    echo "lookback period is" $i >> test15.txt   
+    echo "holding period is" $holding_period >> test15.txt 
+    echo "trigger is" $trigger >> test15.txt    
     echo "lookback period is" $i 
     echo "holding period is" $holding_period 
     echo "trigger is" $trigger
     echo "market band is" $market
-if [ "$COUNTER" -gt "2684" ]
-then echo "counter is" $COUNTER >> buffer4.txt 
-    sudo python bollinger_events.py $i $holding_period $trigger $market $bin $switch >> buffer4.txt 
+if [ "$COUNTER" -gt "35" ]
+then echo "counter is" $COUNTER >> buffer15.txt 
+    sudo python events.py $i $holding_period $trigger $market $bin $switch >> buffer15.txt 
 #   sudo python bollinger_events.py $i $holding_period $trigger $market $bin $switch >> score.txt
 
-    sudo python market_sim.py
+    sudo python sim2.py
 #   sudo python analyzer.py $i $holding_period $trigger $market $bin $switch
-    echo "counter is" $COUNTER >> searchrank4.txt
-    sudo python analyzer.py $i $holding_period $trigger $market $bin $switch >> searchrank4.txt 
+    echo "counter is" $COUNTER >> searchrank15.txt
+    sudo python analyzer2.py $i $holding_period $trigger $market $bin $switch >> searchrank15.txt 
 fi
 COUNTER=$((COUNTER+1))
 echo $COUNTER

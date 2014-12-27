@@ -72,7 +72,7 @@ if __name__ == '__main__':
     market=sys.argv[4] 
     switch = sys.argv[5]
     switch2=sys.argv[6]
-    s_file_path = "data\\q1_values.csv"
+    s_file_path = "data\\q2_values.csv"
     ls_symbols =["IXIC"] 
     df_values_list = get_values_list(s_file_path)
     df_values = get_values(df_values_list)
