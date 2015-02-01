@@ -1,0 +1,573 @@
+counter is 1
+FTSE.AT
+1
+counter is 2
+FTSE.AT
+2355
+counter is 3
+FTSE.AT
+449
+counter is 4
+FTSE.AT
+2
+counter is 5
+FTSE.AT
+2
+counter is 6
+FTSE.AT
+1392
+counter is 7
+FTSE.AT
+1392
+counter is 8
+FTSE.AT
+7
+counter is 9
+FTSE.AT
+1
+counter is 10
+FTSE.AT
+2355
+counter is 11
+FTSE.AT
+449
+counter is 12
+FTSE.AT
+32
+counter is 13
+FTSE.AT
+3
+counter is 14
+FTSE.AT
+2230
+counter is 15
+FTSE.AT
+366
+counter is 16
+FTSE.AT
+10
+counter is 17
+FTSE.AT
+10
+counter is 18
+FTSE.AT
+1276
+counter is 19
+FTSE.AT
+1276
+counter is 20
+FTSE.AT
+32
+counter is 21
+FTSE.AT
+3
+counter is 22
+FTSE.AT
+2230
+counter is 23
+FTSE.AT
+366
+counter is 24
+FTSE.AT
+2230
+counter is 25
+FTSE.AT
+366
+counter is 26
+FTSE.AT
+32
+counter is 27
+FTSE.AT
+3
+counter is 28
+FTSE.AT
+1276
+counter is 29
+FTSE.AT
+1276
+counter is 30
+FTSE.AT
+10
+counter is 31
+FTSE.AT
+10
+counter is 32
+FTSE.AT
+2230
+counter is 33
+FTSE.AT
+366
+counter is 34
+FTSE.AT
+32
+counter is 35
+FTSE.AT
+3
+counter is 36
+FTSE.AT
+2355
+counter is 37
+FTSE.AT
+449
+counter is 38
+FTSE.AT
+7
+counter is 39
+FTSE.AT
+1
+counter is 40
+FTSE.AT
+1392
+counter is 41
+FTSE.AT
+1392
+counter is 42
+FTSE.AT
+2
+counter is 43
+FTSE.AT
+2
+counter is 44
+FTSE.AT
+2355
+counter is 45
+FTSE.AT
+449
+counter is 46
+FTSE.AT
+7
+counter is 47
+FTSE.AT
+1
+counter is 48
+FTSE.AT
+7
+counter is 49
+FTSE.AT
+1
+counter is 50
+FTSE.AT
+2355
+counter is 51
+FTSE.AT
+449
+counter is 52
+FTSE.AT
+2
+counter is 53
+FTSE.AT
+2
+counter is 54
+FTSE.AT
+1392
+counter is 55
+FTSE.AT
+1392
+counter is 56
+FTSE.AT
+7
+counter is 57
+FTSE.AT
+1
+counter is 58
+FTSE.AT
+2355
+counter is 59
+FTSE.AT
+449
+counter is 60
+FTSE.AT
+32
+counter is 61
+FTSE.AT
+3
+counter is 62
+FTSE.AT
+2230
+counter is 63
+FTSE.AT
+366
+counter is 64
+FTSE.AT
+10
+counter is 65
+FTSE.AT
+10
+counter is 66
+FTSE.AT
+1276
+counter is 67
+FTSE.AT
+1276
+counter is 68
+FTSE.AT
+32
+counter is 69
+FTSE.AT
+3
+counter is 70
+FTSE.AT
+2230
+counter is 71
+FTSE.AT
+366
+counter is 72
+FTSE.AT
+2230
+counter is 73
+FTSE.AT
+366
+counter is 74
+FTSE.AT
+32
+counter is 75
+FTSE.AT
+3
+counter is 76
+FTSE.AT
+1276
+counter is 77
+FTSE.AT
+1276
+counter is 78
+FTSE.AT
+10
+counter is 79
+FTSE.AT
+10
+counter is 80
+FTSE.AT
+2230
+counter is 81
+FTSE.AT
+366
+counter is 82
+FTSE.AT
+32
+counter is 83
+FTSE.AT
+3
+counter is 84
+FTSE.AT
+2355
+counter is 85
+FTSE.AT
+449
+counter is 86
+FTSE.AT
+7
+counter is 87
+FTSE.AT
+1
+counter is 88
+FTSE.AT
+1392
+counter is 89
+FTSE.AT
+1392
+counter is 90
+FTSE.AT
+2
+counter is 91
+FTSE.AT
+2
+counter is 92
+FTSE.AT
+2355
+counter is 93
+FTSE.AT
+449
+counter is 94
+FTSE.AT
+7
+counter is 95
+FTSE.AT
+1
+counter is 96
+FTSE.AT
+239
+counter is 97
+FTSE.AT
+97
+counter is 98
+FTSE.AT
+15454
+counter is 99
+FTSE.AT
+6903
+counter is 100
+FTSE.AT
+152
+counter is 101
+FTSE.AT
+152
+counter is 102
+FTSE.AT
+11346
+counter is 103
+FTSE.AT
+11346
+counter is 104
+FTSE.AT
+239
+counter is 105
+FTSE.AT
+97
+counter is 106
+FTSE.AT
+15454
+counter is 107
+FTSE.AT
+6903
+counter is 108
+FTSE.AT
+675
+counter is 109
+FTSE.AT
+186
+counter is 110
+FTSE.AT
+12237
+counter is 111
+FTSE.AT
+4340
+counter is 112
+FTSE.AT
+356
+counter is 113
+FTSE.AT
+356
+counter is 114
+FTSE.AT
+8351
+counter is 115
+FTSE.AT
+8351
+counter is 116
+FTSE.AT
+675
+counter is 117
+FTSE.AT
+186
+counter is 118
+FTSE.AT
+12237
+counter is 119
+FTSE.AT
+4340
+counter is 120
+FTSE.AT
+12237
+counter is 121
+FTSE.AT
+4340
+counter is 122
+FTSE.AT
+675
+counter is 123
+FTSE.AT
+186
+counter is 124
+FTSE.AT
+8351
+counter is 125
+FTSE.AT
+8351
+counter is 126
+FTSE.AT
+356
+counter is 127
+FTSE.AT
+356
+counter is 128
+FTSE.AT
+12237
+counter is 129
+FTSE.AT
+4340
+counter is 130
+FTSE.AT
+675
+counter is 131
+FTSE.AT
+186
+counter is 132
+FTSE.AT
+15454
+counter is 133
+FTSE.AT
+6903
+counter is 134
+FTSE.AT
+239
+counter is 135
+FTSE.AT
+97
+counter is 136
+FTSE.AT
+11346
+counter is 137
+FTSE.AT
+11346
+counter is 138
+FTSE.AT
+152
+counter is 139
+FTSE.AT
+152
+counter is 140
+FTSE.AT
+15454
+counter is 141
+FTSE.AT
+6903
+counter is 142
+FTSE.AT
+239
+counter is 143
+FTSE.AT
+97
+counter is 144
+FTSE.AT
+239
+counter is 145
+FTSE.AT
+97
+counter is 146
+FTSE.AT
+15454
+counter is 147
+FTSE.AT
+6903
+counter is 148
+FTSE.AT
+152
+counter is 149
+FTSE.AT
+152
+counter is 150
+FTSE.AT
+11346
+counter is 151
+FTSE.AT
+11346
+counter is 152
+FTSE.AT
+239
+counter is 153
+FTSE.AT
+97
+counter is 154
+FTSE.AT
+15454
+counter is 155
+FTSE.AT
+6903
+counter is 156
+FTSE.AT
+675
+counter is 157
+FTSE.AT
+186
+counter is 158
+FTSE.AT
+12237
+counter is 159
+FTSE.AT
+4340
+counter is 160
+FTSE.AT
+356
+counter is 161
+FTSE.AT
+356
+counter is 162
+FTSE.AT
+8351
+counter is 163
+FTSE.AT
+8351
+counter is 164
+FTSE.AT
+675
+counter is 165
+FTSE.AT
+186
+counter is 166
+FTSE.AT
+12237
+counter is 167
+FTSE.AT
+4340
+counter is 168
+FTSE.AT
+12237
+counter is 169
+FTSE.AT
+4340
+counter is 170
+FTSE.AT
+675
+counter is 171
+FTSE.AT
+186
+counter is 172
+FTSE.AT
+8351
+counter is 173
+FTSE.AT
+8351
+counter is 174
+FTSE.AT
+356
+counter is 175
+FTSE.AT
+356
+counter is 176
+FTSE.AT
+12237
+counter is 177
+FTSE.AT
+4340
+counter is 178
+FTSE.AT
+675
+counter is 179
+FTSE.AT
+186
+counter is 180
+FTSE.AT
+15454
+counter is 181
+FTSE.AT
+6903
+counter is 182
+FTSE.AT
+239
+counter is 183
+FTSE.AT
+97
+counter is 184
+FTSE.AT
+11346
+counter is 185
+FTSE.AT
+11346
+counter is 186
+FTSE.AT
+152
+counter is 187
+FTSE.AT
+152
+counter is 188
+FTSE.AT
+15454
+counter is 189
+FTSE.AT
+6903
+counter is 190
+FTSE.AT
+239
+counter is 191
+FTSE.AT
+97
